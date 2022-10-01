@@ -11,11 +11,9 @@
             "id": "ad0e8d41547c9021",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Personnages/index.md",
-                "mode": "source",
-                "source": false
+                "file": "assets/img/logo_maison.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personnages/index.md",
+                "file": "assets/img/logo_maison.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personnages/index.md",
+                "file": "assets/img/logo_maison.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personnages/index.md"
+                "file": "assets/img/logo_maison.png"
               }
             }
           }
@@ -138,15 +136,15 @@
   },
   "active": "ad0e8d41547c9021",
   "lastOpenFiles": [
+    "assets/img/cristal_aetherite.png",
+    "assets/img/charte_hua.png",
+    "assets/img/infirmier.png",
+    "assets/img/prof_histoire.png",
+    "assets/img/directeur.png",
+    "assets/img/BigMama.png",
+    "assets/img/bibliothécaire.png",
+    "Personnages/PNJ.md",
     "Personnages/Liste des personnages non joueurs.md",
-    "Univers/Étria/Parcours & spécialité/Aegis.md",
-    "Univers/Étria/Parcours & spécialité/Sages.md",
-    "Univers/Étria/Parcours & spécialité/Chercheurs.md",
-    "Personnages/index.md",
-    "Univers/Magie/index.md",
-    "Univers/Magie/Nouveau doc pour l'update de la magie.md",
-    "index.md",
-    "Note du Développeur.md",
-    "Gameplay.md"
+    "Univers/Étria/Parcours & spécialité/Aegis.md"
   ]
 }
