@@ -11,9 +11,11 @@
             "id": "ad0e8d41547c9021",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/img/logo_maison.png"
+                "file": "Personnages/index.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/img/logo_maison.png",
+                "file": "Personnages/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/img/logo_maison.png",
+                "file": "Personnages/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/img/logo_maison.png"
+                "file": "Personnages/index.md"
               }
             }
           }
@@ -136,6 +138,7 @@
   },
   "active": "ad0e8d41547c9021",
   "lastOpenFiles": [
+    "assets/img/logo_maison.png",
     "assets/img/cristal_aetherite.png",
     "assets/img/charte_hua.png",
     "assets/img/infirmier.png",
@@ -143,8 +146,7 @@
     "assets/img/directeur.png",
     "assets/img/BigMama.png",
     "assets/img/bibliothécaire.png",
-    "Personnages/PNJ.md",
-    "Personnages/Liste des personnages non joueurs.md",
-    "Univers/Étria/Parcours & spécialité/Aegis.md"
+    "Personnages/index.md",
+    "Personnages/Liste des personnages non joueurs.md"
   ]
 }

@@ -32,7 +32,7 @@ On soupçonne ses cordes vocales de s'être atrophiées, depuis le temps qu'il s
 <div style="height:2em;display:block;"></div>
 ## ❖ —  **Infirmier** - Lethr Shiro — ❖
 >[!infobox|left]
->![[../assets/img/Pasted image 20221001184944.png]]
+>![[../assets/img/infirmier.png]]
 
 Spécialiste de la magie de la Vie et des herbes médicinales, ce jeune homme de 26 ans aux yeux azur et aux cheveux blancs comme la neige est une perle. Extrêmement gentil et altruiste, il a été élevé avec des loups et possède une forme loup à la queue particulièrement longue et élégante.
 Il lui arrive d'avoir parfois le réflexe de vouloir lécher une plaie, avant de se stopper en bafouillant, mort de honte. Il est légèrement timide mais blagueur, et sais garder son calme dans toutes circonstances. Il est toujours là pour aider les élèves, même s'il s'agit de simplement les écouter, et de panser leurs plaies, quelles qu'elles soient.
@@ -40,7 +40,7 @@ Son Hua et ses soins ont une douce odeur de lavande.
 <div style="height:2em;display:block;"></div>
 ## ❖ —  **Professeur d'Histoire** - M. Uriel Eeryé  — ❖
 >[!infobox|left]
->![[Pasted image 20221001185025.png]]
+>![[../assets/img/prof_histoire.png]]
 
 Légèrement élitiste sur les bords, cet enseignant fait souvent peur, de loin. Il a pourtant soif de connaissances, et possède une grande maîtrise de Terre et du Feu. Il sait combiner ses éléments et peut créer des joyaux couplés à son Hua, qu'il aime porter autant comme réserves d'énergies que comme apparats. 
 Propre sur lui, il est très détendu, et s'attriste facilement du fait que son apparence fasse aussi peur, de loin. Il mesure plus de 2m20. 
