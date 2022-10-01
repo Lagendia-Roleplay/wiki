@@ -19,12 +19,12 @@ Le système utilise un dé 100, vous octroyant un résultat de 1 à 100. Sa comm
 
 Lorsque vous obtiendrez votre résultat, vous devrez alors adapter votre action à ce dernier. Le ratio des résultats est le suivant:
 
-- **1 - Échec extrême**. - Votre personnage échoue automatiquement son action et subira un très grave contrecoup.
-- 2 à 5 - Échec Critique**: Votre personnage rate son action et peut être grièvement blessé.
-- 6 à 45 - Echec avec malus:** L'action échoue ou s'il réussi un énorme malus lui tombera dessus. Par exemple: XXX veut attaquer un monstre. Je jette un dé et tombe sur 10. Son attaque touche la créature mais XXX se fait mal au bras à cause du choc.
-- 46 à 94** - Action réussie.
-- **95 à 99** - Réussite critique: Votre personnage infligera des dégâts considérables et pourra prendre l'avantage.
-- **100** - Réussite extrême. - Votre personnage réussit automatiquement son action, surpassant même ses intentions, et infligera un coup dévastateur pour un avantage considérable.
+- **1 - Échec extrême :** Votre personnage échoue automatiquement son action et subira un très grave contrecoup.
+- **2 à 5 — Échec Critique** : Votre personnage rate son action et peut être grièvement blessé.
+- **6 à 45 —  Echec avec malus :** L'action échoue ou s'il réussi un énorme malus lui tombera dessus. Par exemple: XXX veut attaquer un monstre. Je jette un dé et tombe sur 10. Son attaque touche la créature mais XXX se fait mal au bras à cause du choc.
+- **46 à 94 - Action réussie.**
+- **95 à 99 - Réussite critique** : Votre personnage infligera des dégâts considérables et pourra prendre l'avantage.
+- **100 - Réussite extrême** : Votre personnage réussit automatiquement son action, surpassant même ses intentions, et infligera un coup dévastateur pour un avantage considérable.
 
 ---
 Pour esquiver une attaque, le résultat de votre jet d'esquive devra être supérieur au jet d'attaque de votre adversaire. Dans le cas où vous n'esquivez pas le coup, plus la différence entre le résultat adverse et le vôtre est élevé, plus l'attaque vous infligera de dégâts.
@@ -45,5 +45,5 @@ Il y aura certaines capacités qui nécessiteront un nombre de jets limités par
 *Cas d’exemple: Un personnage Healer pourra utiliser ses capacités de soin trois fois par jour. Un personnage DPS ne sera en mesure de l’utiliser qu’une seule fois par jour.*
 
 Si votre action échoue, votre lancé est donc perdu. 
-A noter: certaines capacités auront une plus grande limite ou cooldown. 
+À noter : certaines capacités auront une plus grande limite ou cooldown. 
 Les compétences de buff apporteront un bonus conditionnel en fonction de votre grade et votre parcours.

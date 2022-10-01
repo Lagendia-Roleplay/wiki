@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personnages/index.md",
+                "file": "Gameplay.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personnages/index.md",
+                "file": "Gameplay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personnages/index.md",
+                "file": "Gameplay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personnages/index.md"
+                "file": "Gameplay.md"
               }
             }
           }
@@ -138,6 +138,7 @@
   },
   "active": "ad0e8d41547c9021",
   "lastOpenFiles": [
+    "Personnages/index.md",
     "assets/img/logo_maison.png",
     "assets/img/cristal_aetherite.png",
     "assets/img/charte_hua.png",
@@ -146,7 +147,6 @@
     "assets/img/directeur.png",
     "assets/img/BigMama.png",
     "assets/img/bibliothécaire.png",
-    "Personnages/index.md",
     "Personnages/Liste des personnages non joueurs.md"
   ]
 }
