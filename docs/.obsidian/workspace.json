@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Univers/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Univers/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Univers/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Univers/index.md"
               }
             }
           }
@@ -138,8 +138,8 @@
   },
   "active": "ad0e8d41547c9021",
   "lastOpenFiles": [
-    "Univers/index.md",
     "index.md",
+    "Univers/index.md",
     "Gameplay.md",
     "Univers/La vie d'adulte.md",
     "Personnages/index.md",

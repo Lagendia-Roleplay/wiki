@@ -1,3 +1,7 @@
+---
+title: L'Univers
+---
+
 
     **Lagendia** est le nom de la planète, et de ce fait, des terres. Dans un monde mi moderne, mi médiéval fantastique, il est naturel d'y trouver énormément de paysages intouchés par une quelconque espèce. Vous n'êtes ici que depuis 300 ans environs, et la population des différentes espèces ne s'est pas excessivement reproduite. Il n'y a aucun réel royaume, et la plus grande et unique grande cité réellement régente, est celle de la Capitale, Soleanna. 
 
