@@ -1,0 +1,38 @@
+{
+  "templates": [
+    "title"
+  ],
+  "managers": {
+    "explorer": true,
+    "graph": true,
+    "header": true,
+    "quick_switcher": true,
+    "file_note_link": true,
+    "starred": false
+  },
+  "rules": {
+    "paths": {
+      "mode": "black",
+      "values": []
+    },
+    "delimiter": {
+      "enabled": false,
+      "value": ""
+    }
+  },
+  "debug": false,
+  "boot": {
+    "delay": 1000
+  },
+  "features": {
+    "explorer:sort": {
+      "enabled": false
+    },
+    "file:note:link:approval": {
+      "enabled": true
+    },
+    "file:note:link:filter": {
+      "enabled": true
+    }
+  }
+}

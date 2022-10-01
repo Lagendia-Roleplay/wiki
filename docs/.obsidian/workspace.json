@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "e78c3e4245b4343d",
+    "type": "split",
+    "children": [
+      {
+        "id": "834105542d584355",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "89bdd0a18294f20b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Univers/Étria/Parcours & spécialité/Aegis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4abd95a17896b435",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Univers/Étria/Parcours & spécialité/Sages.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "004faa304d02496f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Univers/Étria/Parcours & spécialité/Chercheurs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ad0e8d41547c9021",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gameplay.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5f2f663643e65efd",
+    "type": "split",
+    "children": [
+      {
+        "id": "27dd1751b0c3bdc5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3abc6ff850f49c82",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2e60ed0d4fa45d56",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2c265765c5c3b5a3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 213.5
+  },
+  "right": {
+    "id": "217ad728f0810378",
+    "type": "split",
+    "children": [
+      {
+        "id": "97772e93a623ccde",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a12087998684764",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Gameplay.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "81d12a871b2ceb71",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Gameplay.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "42004e5a5ec5deed",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "57d7103b9b126e48",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Gameplay.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ad0e8d41547c9021",
+  "lastOpenFiles": [
+    "Gameplay/Passage de grade.md",
+    "Univers/Étria/Passage de grade.md",
+    "Univers/Étria/Parcours & spécialité/Chercheurs.md",
+    "Univers/Étria/Parcours & spécialité/Sages.md",
+    "Univers/Étria/Parcours & spécialité/Aegis.md",
+    "Univers/Étria/Parcours & spécialité/Maîtres.md",
+    "Univers/Étria/index.md",
+    "Note du Développeur.md",
+    "Univers/index.md",
+    "Personnages/index.md"
+  ]
+}
