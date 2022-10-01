@@ -4,8 +4,8 @@ site_url: https://lagendia-wiki.netlify.app
 
 theme:
     name: 'material'
-    logo: assets/meta/favicons.png
-    favicon: assets/meta/favicons.png
+    logo: assets/meta/favicons.jpg
+    favicon: assets/meta/favicons.jpg
     custom_dir: overrides
     font:
         text: Ubuntu
@@ -120,7 +120,7 @@ extra_css:
     - assets/css/customization.css
 extra:
   generator: false
-  SEO: 'assets/meta/LOGO_SEO.png'
+  SEO: 'assets/meta/favicons.jpg'
   blog_list:
     pagination: false
     pagination_message: false
