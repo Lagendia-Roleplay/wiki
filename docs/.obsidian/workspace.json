@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gameplay.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gameplay.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gameplay.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gameplay.md"
+                "file": "index.md"
               }
             }
           }
@@ -138,15 +138,15 @@
   },
   "active": "ad0e8d41547c9021",
   "lastOpenFiles": [
+    "Univers/index.md",
+    "index.md",
+    "Gameplay.md",
+    "Univers/La vie d'adulte.md",
     "Personnages/index.md",
     "assets/img/logo_maison.png",
     "assets/img/cristal_aetherite.png",
     "assets/img/charte_hua.png",
     "assets/img/infirmier.png",
-    "assets/img/prof_histoire.png",
-    "assets/img/directeur.png",
-    "assets/img/BigMama.png",
-    "assets/img/bibliothécaire.png",
-    "Personnages/Liste des personnages non joueurs.md"
+    "assets/img/prof_histoire.png"
   ]
 }
