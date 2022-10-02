@@ -4,7 +4,7 @@ title: Magie
 
 ## Hua
 
-Si la ressource primitive du monde se nomme le *Hua*, elle régit dans un point au centre de Lagendia, et en constitue une toile éthérée qui crée ainsi la flore et la vie naturelle sur les terres. Son flot se régule naturellement et retourne à la terre lors de la mort des êtres vivants, permettant une régénération énergétique en continue. Ce cycle est plus communément nommé « La Rivière de la Vie. »
+Si la ressource primitive du monde se nomme le *Hua*, elle régit dans un point au centre de Lagendia, et en constitue une toile éthérée qui crée ainsi la flore et la vie naturelle sur les terres. Son flot se régule naturellement et retourne à la terre lors de la mort des êtres vivants, permettant une régénération énergétique en continue. Ce cycle est plus communément nommé « La Rivière de la Vie. »
 Pour les êtres, quelle que soit leur nature, le *Hua* se déverse en eux à partir d'un nœud aethéré central, appelé le **Point Cœur **et découlant en plusieurs **Centres de Puissance**, constituant l'Âme de l'être. C'est grâce à ce flot que la magie devient possible, couplée à un contrôle du Hua et une manipulation élémentaire.
 
 Un **Centre de Puissance** est une sorte de valve qui régule le flot à l'intérieur du corps et répond à son affiliation. Tournoyants sans arrêt, ils réagissent à l'afflux magique demandé et se forgent sur le temps avec la formation de la personne. Certains points laisseront s'écouler plus de *Hua* de par leur utilisation régulière, tandis qu'un point oublié ou négligé peut entraîner une atrophie, affectant l'être même. 
@@ -17,7 +17,7 @@ Bien que ce flot de *Hua* et ces nœuds aethérés se déversent dans la faune, 
 
 ## Les cristaux 
 
-**Le *Hua* est le moteur énergétique de toute chose**, de magie comme d'alimentation à un quelconque dispositif, et ce grâce à un type de cristal naturel très particulier : les **Cristaux d'Aetherite.** D'origine naturelle, enfouis dans la terre, d'une taille variant à quelques centimètres jusqu'à parfois atteindre des vingtaines de mètres, ils sont minés pour leur disposition à convertir et absorber le *Hua* environnant, tels des batteries d'énergie. En enflammant un Cristal d'Aetherite, ce dernier déclenche un composant qui absorbe le *Hua* et le convertit en énergie motrice, utilisée pour les machines et mécanismes installés sur Lagendia. Toutes les technologies du Monde sont basées sur ce système. 
+**Le *Hua* est le moteur énergétique de toute chose**, de magie comme d'alimentation à un quelconque dispositif, et ce grâce à un type de cristal naturel très particulier : les **Cristaux d'Aetherite.** D'origine naturelle, enfouis dans la terre, d'une taille variant à quelques centimètres jusqu'à parfois atteindre des vingtaines de mètres, ils sont minés pour leur disposition à convertir et absorber le *Hua* environnant, tels des batteries d'énergie. En enflammant un Cristal d'Aetherite, ce dernier déclenche un composant qui absorbe le *Hua* et le convertit en énergie motrice, utilisée pour les machines et mécanismes installés sur Lagendia. Toutes les technologies du Monde sont basées sur ce système. 
 En fonction de la taille du Cristal, plus ou moins de Hua autour sera absorbé, rendant parfois très difficile l'utilisation de magie à proximité de l'un d'eux.
 
 ![[../../assets/img/cristal_aetherite.png]]

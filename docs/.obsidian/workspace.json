@@ -13,34 +13,74 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gameplay/Passage de grade.md",
+                "file": "Univers/Magie/Les invocations et Magies spécifiques.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "087bdf7cd80a68e3",
+            "id": "80ec8adb1c2da11b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Univers/Magie/index.md",
+                "file": "Univers/Magie/La magie élémentaire et environnementale.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9907b4c08d04b774",
+            "id": "a18fd62ce11f6fe8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Univers/Magie/La Magie et les Centres de Puissance.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3da7433fc20151c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Univers/Magie/L'Âme et la Magie.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "691d2132418cd62d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Univers/Magie/L'Âme et la Magie.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5c86dfa507f5ee42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gameplay/La vie d'adulte.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -90,7 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 213.5
+    "width": 253.5
   },
   "right": {
     "id": "217ad728f0810378",
@@ -106,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Univers/Magie/index.md",
+                "file": "Univers/Magie/L'Âme et la Magie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Univers/Magie/index.md",
+                "file": "Univers/Magie/L'Âme et la Magie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Univers/Magie/index.md"
+                "file": "Univers/Magie/L'Âme et la Magie.md"
               }
             }
           }
@@ -157,17 +197,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "087bdf7cd80a68e3",
+  "active": "691d2132418cd62d",
   "lastOpenFiles": [
-    "Univers/Espèces/Races intelligentes/index.md",
-    "Univers/Magie/Nouveau doc pour l'update de la magie.md",
-    "Univers/Espèces/Animaux et monstruosité/index.md",
-    "index.md",
-    "Univers/Technologie et vie quotidienne.md",
-    "Univers/Histoire connue.md",
-    "Univers/Dieux et religion.md",
-    "Gameplay/Passage de grade.md",
-    "Gameplay/Les quêtes.md",
-    "Gameplay/La vie d'adulte.md"
+    "Univers/Magie/L'Arbre et les types de Magies.md",
+    "Univers/Magie/L'Âme et la Magie.md",
+    "Univers/Magie/La Magie et les Centres de Puissance.md",
+    "Univers/Magie/Le Biologique et le Magique.md",
+    "Univers/Magie/Les invocations et Magies spécifiques.md",
+    "Univers/Magie/La magie élémentaire et environnementale.md",
+    "Gameplay/La vie d'adulte.md",
+    "Gameplay/Parcours & spécialité/Sages.md",
+    "Gameplay/Parcours & spécialité/Maîtres.md",
+    "Gameplay/Parcours & spécialité/Chercheurs.md"
   ]
 }

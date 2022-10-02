@@ -43,10 +43,10 @@ theme:
 markdown_extensions:
   - footnotes
   - nl2br
+  - smarty
   - attr_list
   - sane_lists
   - meta
-  - smarty
   - tables
   - mdx_breakless_lists
   - def_list
@@ -72,6 +72,7 @@ markdown_extensions:
       permalink: true
   - pymdownx.inlinehilite
   - pymdownx.snippets
+  - pymdownx.smartsymbols
   - pymdownx.superfences:
       custom_fences:
         - name: mermaid
