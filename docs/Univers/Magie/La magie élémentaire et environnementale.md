@@ -10,8 +10,8 @@ Pour constituer une magie élémentaire et de plus en plus complexe, il faut y a
 >[!example] Cas d'exemple
 > L'Eau et la Terre donnent une magie des Plantes. Avec un ajout de Hua brut dans le combiné, il est possible d'obtenir d'autant plus de dérivés : la magie de la Mort/Poison, ou de la Vie.
 
-> [!warning]
- *Il est important de noter qu'il est possible d'avoir une affiliation naturelle et innée avec une magie dérivée ou combinée (telle que la Plante). Cependant, une telle personne ne sera pas en mesure de dissocier sa magie en sa composante primordiale (Eau, Terre). De ce fait, sa maîtrise de la magie innée ne sera pas aussi largement bonne qu'un vivant avec la maîtrise des deux composants primordiaux. S'il veut améliorer sa maîtrise de sa magie innée (Plante), il devra alors réapprendre la maîtrise basique de l'Eau et de la Terre distinctement.*
+> [!warning] Attention
+ > *Il est important de noter qu'il est possible d'avoir une affiliation naturelle et innée avec une magie dérivée ou combinée (telle que la Plante). Cependant, une telle personne ne sera pas en mesure de dissocier sa magie en sa composante primordiale (Eau, Terre). De ce fait, sa maîtrise de la magie innée ne sera pas aussi largement bonne qu'un vivant avec la maîtrise des deux composants primordiaux. S'il veut améliorer sa maîtrise de sa magie innée (Plante), il devra alors réapprendre la maîtrise basique de l'Eau et de la Terre distinctement.*
 
 De même, quelqu'un né avec une affiliation ne pourra aucunement apprendre d'élément primordial qui ne découle pas de sa branche innée. (E.g : une magie de la Mort innée empêchera l'apprentissage de l'élément de Feu.)
 **Un joueur ne pourra avoir une magie innée qu'issue du *Tier 3* maximum**.
