@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Univers/Magie/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Univers/Magie/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Univers/Magie/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Univers/Magie/index.md"
               }
             }
           }
@@ -159,15 +159,15 @@
   },
   "active": "087bdf7cd80a68e3",
   "lastOpenFiles": [
+    "Univers/Espèces/Races intelligentes/index.md",
+    "Univers/Magie/Nouveau doc pour l'update de la magie.md",
+    "Univers/Espèces/Animaux et monstruosité/index.md",
+    "index.md",
     "Univers/Technologie et vie quotidienne.md",
     "Univers/Histoire connue.md",
     "Univers/Dieux et religion.md",
-    "Univers/Espèces/Animaux et monstruosité/index.md",
     "Gameplay/Passage de grade.md",
     "Gameplay/Les quêtes.md",
-    "Gameplay/La vie d'adulte.md",
-    "Gameplay/index.md",
-    "Personnages/index.md",
-    "Univers/index.md"
+    "Gameplay/La vie d'adulte.md"
   ]
 }
