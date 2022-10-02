@@ -1,3 +1,5 @@
+## La magie élémentaire
+
 Le **Hua** est le nom de l'énergie magique qui compose le monde. Elle régit la terre, l'air, comme les êtres vivants, et se distingue en deux types : le Hua vivant, ou énergie du vivant, et le Hua environnemental, qui compose la planète – ce dernier est trouvable même dans l'air ou la terre, la faune ou la flore. Leur utilisation reste fondamentalement similaire, et le Hua environnemental n'est pas aussi facilement manipulable que le Hua propre au vivant, outre la matière accordée au type élémentaire manipulé. 
 
 La magie se base sur les éléments, dont le tronc commun est le Hua brut, avant d'être, ou non, affilié à un élément. Plus une magie lie divers éléments, plus elle devient complexe à maîtriser. 
@@ -16,6 +18,7 @@ Pour constituer une magie élémentaire et de plus en plus complexe, il faut y a
 De même, quelqu'un né avec une affiliation ne pourra aucunement apprendre d'élément primordial qui ne découle pas de sa branche innée. (E.g : une magie de la Mort innée empêchera l'apprentissage de l'élément de Feu.)
 **Un joueur ne pourra avoir une magie innée qu'issue du *Tier 3* maximum**.
 
+## La magie environnemental
 
 La manipulation du Hua environnemental est possible à moindre mesure.
 
@@ -36,6 +39,8 @@ Les propriétés énergétiques et environnementales sont très similaires, mais
 > [!example] Cas d'exemple
 > Il est possible, avec une maîtrise excellente et rare, de transformer une pierre, composée de l'élément Terre, en pierre précieuse en l'insufflant les quantités de Hua d'Eau et Feu nécessaires à la création d'un joyau. Le mélange énergétique permet ainsi d'influer sur le monde primaire, mais laissera cependant une trace énergétique de son créateur. Un joyau ainsi conçu sera différenciable d'un joyau naturellement formé.
 
+## La création
+
 **La magie ne permet pas de créer d'âme ou de Hua brut**. Elle n'est qu'une extension du Hua du vivant, ou une, comme dit, amplification du Hua environnemental. Elle doit toujours se baser sur quelque chose, **et ne peut pas créer de matière réelle d'elle-même**. **Toute création magique sera énergétique** – sauf interaction avec l'environnement s'il s'agit d'un des éléments primordiaux. 
 **De ce fait, la magie ne permet pas de créer d'êtres conscients et intelligents – elle ne permet que de manipuler le Hua**. 
 
@@ -45,7 +50,7 @@ Les propriétés énergétiques et environnementales sont très similaires, mais
 La création ne peut être composée que d'un élément inanimé et inanimable liée à l'Hua en question. S'il est possible de créer une flamme ou de la pierre, il **n'est pas possible de créer de la chaire ou du sang**, matières beaucoup trop complexes à la création et non élémentaires. Le cas de l'hémomancie (ou contrôle du sang, Eau + Hua) se ferait uniquement sur une base de sang déjà existant, et à quantité **raisonnable** s'il s'agit de son propre sang. 
 L'animation sur un élément d'origine organique (chaire et os) relève de la magie de la Nécromancie. Les Plantes sont une matière propre et non considérées similaires à l'organique citée ci-dessus. Elles ne possèdent pas d'âme.
 
-Il est possible d'utiliser sa chaire dans une moindre mesure, tant que cette dernière reste rattachée à son corps – ainsi fonctionne la magie de **Morphing**, sur une branche de l'élément Vie + Hua. Il s'agit de modifications corporelles telles que les extensions, la modification d'apparences et de corpulence, à maîtrises variables ; la matière n'est pas créée par le Hua, simplement modifiée sur terme biologique grâce à la magie du domaine uniquement. **La maîtrise du morphing ne permet en aucun cas l'imitation d'un élément qui n'est pas maîtrisé**. Pareillement, elle ne permet pas de morphing en objet. 
+Il est possible d'utiliser sa chaire dans une moindre mesure, tant que cette dernière reste rattachée à son corps – ainsi fonctionne la magie de **Morphing**, sur une branche de l'élément $Vie + Hua$. Il s'agit de modifications corporelles telles que les extensions, la modification d'apparences et de corpulence, à maîtrises variables ; la matière n'est pas créée par le Hua, simplement modifiée sur terme biologique grâce à la magie du domaine uniquement. **La maîtrise du morphing ne permet en aucun cas l'imitation d'un élément qui n'est pas maîtrisé**. Pareillement, elle ne permet pas de morphing en objet. 
 
 > [!example] Cas d'exemple
 > S'il est possible de prendre l'apparence d'une race crachant des flammes, il n'est pas possible de cracher de feu après le morphing si l'élément Feu n'est pas maîtrisé. Similairement, il n'est pas non plus possible de donner à son corps une texture terreuse ou liquide si les éléments respectifs de Terre et d'Eau ne sont pas acquis.
