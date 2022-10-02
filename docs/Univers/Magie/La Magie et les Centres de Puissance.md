@@ -1,3 +1,7 @@
+---
+description: "Le Hua est intimement lié au corps, mais possède son propre réseau, non mêlé à celui du corps. Les vaisseaux de Hua et de sang ne sont pas les mêmes, bien qu'ils se superposent – le sang possède une marque énergétique résiduelle, mais le Hua n'y circule pas principalement. Ce fonctionnement est immuable."
+---
+
 Le Hua est intimement lié au corps, mais possède son **propre réseau, non mêlé à celui du corps**. Les vaisseaux de Hua et de sang ne sont pas les mêmes, bien qu'ils se superposent – le sang possède une marque énergétique résiduelle, mais le Hua n'y circule pas principalement. **Ce fonctionnement est immuable**.
 Il est important de noter que **le Hua n'a aucune couleur nuancée**, et ce qu'importe son élément ; il prendra toujours la même teinte argentée, et translucide. **Seule la manifestation extérieure de la magie peut prendre des formes et couleurs variées**, empreintes et signatures de la nature magique de son lanceur. Son flux aura par ailleurs toujours la même régularité, **et ne peut être influencée par quelconque émotion dans sa nature même**.
 

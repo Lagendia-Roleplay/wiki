@@ -1,3 +1,7 @@
+---
+description: "Un corps ne peut naturellement contenir qu'une seule Âme; une âme étant pourvue de ses centres de Puissances propres (c.f mémoire de l'âme, impact sur l'Être). Par ailleurs, une âme ne peut posséder qu'un corps qui lui est lié – les cas de possessions sont très rares et particuliers."
+---
+
 **Un corps ne peut naturellement contenir qu'une seule Âme** ; une âme étant pourvue de ses centres de Puissances propres (c.f mémoire de l'âme, impact sur l'Être). Par ailleurs, **une âme ne peut posséder qu'un corps qui lui est lié** – les cas de possessions sont très rares et particuliers. 
 
 Un corps peut recevoir deux âmes **sous certaines conditions** très précises. Elle requiert un **sceau magique** contenant la deuxième âme, et apposée **uniquement** via la magie d'Aetheromancie. 

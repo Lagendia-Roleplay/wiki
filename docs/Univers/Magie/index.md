@@ -1,5 +1,6 @@
 ---
 title: Magie
+description : "Si la ressource primitive du monde se nomme le *Hua*, elle régit dans un point au centre de Lagendia, et en constitue une toile éthérée qui crée ainsi la flore et la vie naturelle sur les terres. Son flot se régule naturellement et retourne à la terre lors de la mort des êtres vivants, permettant une régénération énergétique en continue. Ce cycle est plus communément nommé « La Rivière de la Vie. »"
 ---
 
 ## Hua

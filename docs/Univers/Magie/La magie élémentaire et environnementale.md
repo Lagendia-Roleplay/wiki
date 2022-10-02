@@ -1,3 +1,7 @@
+---
+description: "Le Hua est le nom de l'énergie magique qui compose le monde. Elle régit la terre, l'air, comme les êtres vivants, et se distingue en deux types : le Hua vivant, ou énergie du vivant, et le Hua environnemental, qui compose la planète"
+---
+
 ## La magie élémentaire
 
 Le **Hua** est le nom de l'énergie magique qui compose le monde. Elle régit la terre, l'air, comme les êtres vivants, et se distingue en deux types : le Hua vivant, ou énergie du vivant, et le Hua environnemental, qui compose la planète – ce dernier est trouvable même dans l'air ou la terre, la faune ou la flore. Leur utilisation reste fondamentalement similaire, et le Hua environnemental n'est pas aussi facilement manipulable que le Hua propre au vivant, outre la matière accordée au type élémentaire manipulé. 
