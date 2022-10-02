@@ -1,3 +1,5 @@
+## Les Douzes
+
 Chaque Dieu, être de *Hua* pur et d'une conscience propre bien qu'animale, réagit à la valeur dont il est le gardien.
 
 **Bœuf**
@@ -47,3 +49,7 @@ Gris colombe.
 **Rat**
 *Gardien de l'Ambition*
 Bleu.
+
+## Culte et célébration
+
+## Autres croyances

@@ -8,18 +8,39 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ad0e8d41547c9021",
+            "id": "543ca99e499fa665",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Univers/index.md",
+                "file": "Gameplay/Passage de grade.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "087bdf7cd80a68e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9907b4c08d04b774",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Univers/index.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Univers/index.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Univers/index.md"
+                "file": "index.md"
               }
             }
           }
@@ -136,17 +157,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ad0e8d41547c9021",
+  "active": "087bdf7cd80a68e3",
   "lastOpenFiles": [
-    "index.md",
-    "Univers/index.md",
-    "Gameplay.md",
-    "Univers/La vie d'adulte.md",
+    "Univers/Technologie et vie quotidienne.md",
+    "Univers/Histoire connue.md",
+    "Univers/Dieux et religion.md",
+    "Univers/Espèces/Animaux et monstruosité/index.md",
+    "Gameplay/Passage de grade.md",
+    "Gameplay/Les quêtes.md",
+    "Gameplay/La vie d'adulte.md",
+    "Gameplay/index.md",
     "Personnages/index.md",
-    "assets/img/logo_maison.png",
-    "assets/img/cristal_aetherite.png",
-    "assets/img/charte_hua.png",
-    "assets/img/infirmier.png",
-    "assets/img/prof_histoire.png"
+    "Univers/index.md"
   ]
 }

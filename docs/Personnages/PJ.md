@@ -3,17 +3,15 @@ category: Lagendia
 dataview: true
 description: Liste de tous les personnages de Lagendia avec quelque données
   issues de leur fiche
-image: Lagendia_logo.webp
 links: false
 name: Lagendia — Personnages data
 share: true
-title: Personnages
+title: "Joueurs"
 tags:
   - Lagendia
   - MOC
 ---
 
-#Lagendia #MOC
 # Élève
 
 | Élève                                                                                              | Race                                                                    | Âge    | Taille     | Anniversaire | Parcours  | Club                           |

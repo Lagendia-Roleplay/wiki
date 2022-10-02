@@ -1,3 +1,6 @@
+---
+title: Dés
+---
 ## Fonctionnement
 
 La plupart de vos actions notables se fera sous l'influence d'un système de dés. Un jet (ou roll) de dé vous sera demandé, notamment lorsqu'il s'agit des scènes de combat pour un meilleur équilibrage des forces.
