@@ -45,8 +45,6 @@ Cela créera donc un éditeur web de VSCode, qui peut être très pratique !
 Vous devez maintenant éditer les fichiers. Quelques truc à savoir :
 - Le fichier "de base" d'un dossier doit se nommer `index.md`. Dans ce cas vous devez rajouter, en haut du fichier :
 
-
-
 	```md
 	---
 	title: Nom du dossier
@@ -54,9 +52,7 @@ Vous devez maintenant éditer les fichiers. Quelques truc à savoir :
 	contenu
 	```
 
-
-
-- Les fichiers sont en **Markdown**, une syntaxe similaire à discord avec quelque différence et rajout. Je vous conseille d'aller jeter un œil à la [syntaxe Markdown](https://cours-web.ch/divers/markdown.html) pour appréhender l'ensemble.
+- Les fichiers sont en **Markdown**, une syntaxe similaire à discord avec quelque différence et rajout. Je vous conseille d'aller jeter un œil à la [syntaxe Markdown](https://cours-web.ch/divers/markdown.html) pour appréhender l'ensemble. Il y a aussi quelque ajout spécifique à [Material Mkdocs](https://squidfunk.github.io/mkdocs-material/reference/) et la syntaxe [Callouts d'Obsidian](https://help.obsidian.md/How+to/Use+callouts) (que vous pouvez voir un peu partout sur le wiki).
 - Le Wiki, spécifiquement, est un poil relou avec les chemins vers les fichiers. Au besoin, les administrateurs s'occuperont de réparer les liens, donc pas besoin de spécifiquement vous en souciez.
 - Les images doivent être mises dans **`docs/_img`** avec un nom **lisible**.
 
