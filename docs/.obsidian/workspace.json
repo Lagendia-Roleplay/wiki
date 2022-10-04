@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Participer au Wiki.md",
+                "file": "Univers/Magie/Le Biologique et le Magique.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Participer au Wiki.md",
+                "file": "Univers/Magie/Le Biologique et le Magique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Participer au Wiki.md",
+                "file": "Univers/Magie/Le Biologique et le Magique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Participer au Wiki.md"
+                "file": "Univers/Magie/Le Biologique et le Magique.md"
               }
             }
           }
@@ -152,8 +152,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "d2b37e147b56993c",
+  "active": "3abc6ff850f49c82",
   "lastOpenFiles": [
+    "Participer au Wiki.md",
     "index.md",
     "Univers/Magie/Les invocations et Magies spécifiques.md",
     "Gameplay/La vie d'adulte.md",
@@ -162,7 +163,6 @@
     "Univers/Magie/La magie élémentaire et environnementale.md",
     "Univers/Magie/L'Arbre et les types de Magies.md",
     "Univers/Magie/Le Biologique et le Magique.md",
-    "Univers/Magie/index.md",
-    "Gameplay/Parcours & spécialité/Sages.md"
+    "Univers/Magie/index.md"
   ]
 }
