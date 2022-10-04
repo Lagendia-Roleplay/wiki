@@ -1,6 +1,6 @@
 ---
-title: L'invocation fonctionne sous pacte magique avec la créature à invoquer. 
-Les invocations sont des **créatures déjà existantes, et ne sont pas créées avec la magie. C'est le lien magique entre la créature et son invocateur qui permet l'appel par ce dernier, et la potentielle manipulation de la créature ou renforcement magique via le lien du Hua.
+description: L'invocation fonctionne sous pacte magique avec la créature à invoquer. 
+Les invocations sont des créatures déjà existantes, et ne sont pas créées avec la magie. C'est le lien magique entre la créature et son invocateur qui permet l'appel par ce dernier, et la potentielle manipulation de la créature ou renforcement magique via le lien du Hua.
 ---
 
 ## L'invocation
