@@ -136,4 +136,4 @@ Un bon éditeur de fichier markdown est [Typora](https://typora.io/), ou [zettlr
 ### Obsidian
 
 - Si vous utilisez [Obsidian](https://obsidian.md/), vous pouvez ouvrir le dossier `_template/docs` directement dedans en tant que Vault.
-- Dans ce cas là, vous devrez installer [git](https://git-scm.com/) et `git clone <fork>`. Ensuite, vous devrez valider vos modification à l'aide de la commande `git add . && git commit -am "Votre mis à jour" && git push
+- Dans ce cas là, vous devrez installer [git](https://git-scm.com/) et `git clone <fork>`. Ensuite, vous devrez valider vos modification à l'aide de la commande `git add . && git commit -am "Votre mis à jour" && git push`
