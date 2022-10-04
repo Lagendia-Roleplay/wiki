@@ -34,7 +34,8 @@ Cela créera donc un éditeur web de VSCode, qui peut être très pratique !
 ## Étape 3 : Éditer les fichiers
 
 > [!warning] Attention
-> - Seulement les fichiers dans `docs`, sauf `docs/_assets`
+> - Seulement les fichiers dans `docs` doivent être modifié.
+> - Les fichiers dans `docs/_template` **ne doivent surtout pas être modifié**
 > - Les images doivent être ajouté dans `docs/_img`
 
 Vous devez maintenant éditer les fichiers. Quelques truc à savoir :
