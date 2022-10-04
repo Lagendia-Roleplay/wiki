@@ -22,7 +22,7 @@ Plusieurs villages annexes sont implémentés parfois à des lieux de Soleanna, 
 
 Les Cinq maisons de l'Académie sont les suivantes:
 
-![[../../assets/img/logo_maison.png]]
+![[../../_img/logo_maison.png]]
 *Les Cinq bannières représentent cinq des Divinités des Douze du Zodiaque. Chaque Dieu a une couleur attribuée de par la couleur naturelle de son* Hua, *ainsi que la valeur à laquelle il répond. Ces cinq Dieux en particulier correspondent aux valeurs de l'Académie d'Etria.*
 
 

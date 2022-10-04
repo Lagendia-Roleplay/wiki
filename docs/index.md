@@ -1,5 +1,7 @@
 ---
 title: Synopsis
+hide:
+ - navigation
 ---
 
     [[./Univers/index.md|Lagendia]], le monde de bien des créatures. Un monde qui a été surnommé *"Les Terres Promises"* selon quelques croyances, tant la Nature y est splendide et généreuse. Elles seraient un monde offert par les dieux, afin d'y faire prospérer la Vie elle-même.

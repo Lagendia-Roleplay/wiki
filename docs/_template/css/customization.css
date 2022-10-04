@@ -1,0 +1,33 @@
+.md-header,
+.md-nav--primary .md-nav__title[for="__drawer"] {
+    background: var(--md-primary-fg-color) url(../meta/banner.png) left center/cover no-repeat;
+}
+
+.md-tabs {
+    background-color: #00000094;
+}
+
+.md-nav__link[href*="tags"],
+.md-header__button.md-logo,
+.md-sidebar__inner>.md-nav.md-nav--primary.md-nav--lifted>.md-nav__title>.md-nav__button.md-logo>img,
+.md-footer,
+.dataview,
+.folderv {
+    display: none;
+}
+
+
+
+.md-nav--primary .md-nav__title[for="__drawer"] {
+    font-size: xxx-large;
+}
+
+.md-typeset :is(.admonition, details) {
+    font-size: 1em;
+}
+
+[data-md-color-scheme="default"],
+[data-md-color-scheme="slate"] {
+    --md-primary-fg-color: #6096db;
+    --md-accent-fg-color: #2a7bc2
+}
