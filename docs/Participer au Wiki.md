@@ -1,6 +1,7 @@
 ---
 hide:
  - navigation
+description: "Un tutoriel avec toutes les infos pour participer/mettre à jour le wiki"
 ---
 
 ## Préambule
@@ -14,6 +15,7 @@ hide:
 Une fois que vous avez créer votre compte GitHub, revenez sur cette page.
 Vous devez maintenant cliquer sur **FORK** (tout en haut de la page)
 ![TUTO - Mettre une page sur le wiki-02-10-2022](https://user-images.githubusercontent.com/30244939/193438880-828f1cf2-322d-40fd-b0b5-e082ddd362ea.png)
+
 ![TUTO - Mettre une page sur le wiki-02-10-2022-1](https://user-images.githubusercontent.com/30244939/193438890-bcd87f31-08fd-4878-8352-cbfaf009e74f.png)
 
 Cela créera une copie du wiki sur votre compte GitHub !
@@ -24,11 +26,13 @@ Note : Vous pouvez aussi cliquer [ici](https://github.com/Lagendia-Roleplay/wiki
 
 Ensuite, vous devez vous rendre dans la copie du wiki. Normalement, cela s'ouvrira automatiquement après la copie.
 Vous aurez quelque chose dans le style :
+
 ![TUTO - Mettre une page sur le wiki-02-10-2022-2](https://user-images.githubusercontent.com/30244939/193438909-d76a1cf3-887c-432b-813b-64429cb4eaf6.png)
 
 Ensuite, vous pouvez donc ouvrir le "GitHub.dev", c'est à dire, tout simplement **changer le .com** du lien en **.dev**, comme ceci : `https://github.com/votre_username/wiki` → `https://github.dev/votre_username/wiki`
 
 Cela créera donc un éditeur web de VSCode, qui peut être très pratique !
+
 ![TUTO - Mettre une page sur le wiki-02-10-2022-3](https://user-images.githubusercontent.com/30244939/193438916-31d4e467-614f-4c24-a002-eb29dd3dab55.png)
 
 ## Étape 3 : Éditer les fichiers
@@ -61,12 +65,15 @@ Vous pouvez aussi créer votre fichier dans un fichier texte sur votre ordinateu
 ## Étape 4 : Validez les modification
 
 Pour que les modifications soient prises en compte, vous devez aller dans le symbole bizarre en forme de points/branches :
+
 ![TUTO - Mettre une page sur le wiki-02-10-2022-4](https://user-images.githubusercontent.com/30244939/193438927-e9d8ad13-0c81-4b44-873b-7333873d45b0.png)
 
 Vous cliquez sur le `+` pour mettre en attente les informations. Vous devez aussi marquer un petit message qui décrit ce que vous avez changer sur le wiki :
+
 ![TUTO - Mettre une page sur le wiki-02-10-2022-5](https://user-images.githubusercontent.com/30244939/193438933-c0a628ab-ec60-48d8-bc15-1d5cfb157760.png)
 
 Vous cliquez ensuite sur le petit check :
+
 ![TUTO - Mettre une page sur le wiki-02-10-2022-6](https://user-images.githubusercontent.com/30244939/193438939-8cde56a8-418e-47a6-871c-bead93628b90.png)
 
 Félicitation ! Vos changements ont été pris en compte.
@@ -78,23 +85,28 @@ Félicitation ! Vos changements ont été pris en compte.
 Et c'est là que la magie de l'open-source entre en scène !
 
 Retournons dans **github.com** "normal" :
+
 ![TUTO - Mettre une page sur le wiki-02-10-2022-7](https://user-images.githubusercontent.com/30244939/193438959-82eca093-20c2-4b1c-94af-de31a5902d14.png)
 
 Vous verrez le message `This branch is x commit ahead of Lagendia-Roleplay:main.`
 (le nombre de "commit" correspond au nombre d'édition que vous avez fait.)
 
 Cliquons sur **CONTRIBUTE**.
+
 ![TUTO - Mettre une page sur le wiki-02-10-2022-8](https://user-images.githubusercontent.com/30244939/193438969-72dc36da-1491-4ec0-a724-cca1e9853234.png)
 
 Une nouvelle fenêtre apparaît :
+
 ![TUTO - Mettre une page sur le wiki-02-10-2022-9](https://user-images.githubusercontent.com/30244939/193438976-3e3f9dc6-0dc0-4136-9e31-d90f90d6e03a.png)
 
 On clique donc sur **Open Pull request**.
+
 ![TUTO - Mettre une page sur le wiki-02-10-2022-10](https://user-images.githubusercontent.com/30244939/193438978-e65413c1-f5a7-4df4-affc-8967f7b7ce91.png)
 
 Cette drôle de fenêtre apparaît. Ne vous inquietez pas !
 
 Il vous suffit donc maintenant de laisser un commentaire expliquant vos éditions et de créer la pull request.
+
 ![TUTO - Mettre une page sur le wiki-02-10-2022-11](https://user-images.githubusercontent.com/30244939/193438981-88ec910d-8d91-4fb7-88b3-e4b7b5615381.png)
 
 Maintenant, c'est au tour des ADMINISTRATEURS !
@@ -111,6 +123,7 @@ Une fois que votre pull-request est fusionnée avec le wiki, vous pouvez :
 - Ou le conserver
 
 Si vous le conservez pour le mettre à jour dans le futur, il vous suffira de cliquez sur le bouton : "sync fork" :
+
 ![TUTO - Mettre une page sur le wiki-02-10-2022-12](https://user-images.githubusercontent.com/30244939/193438992-44b3b4f7-2c9d-492a-8a11-c46233da89c1.png)
 
 Dans le cas où il y a des conflits lors de la mise à jour, il suffit de MP un admins et on vous expliquera pas à pas la procédure à suivre !

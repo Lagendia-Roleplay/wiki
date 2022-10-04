@@ -55,8 +55,9 @@ var p_img = /\.+\\/gi
 var img = document.querySelectorAll('img');
 for (var i = 0; i < img.length; i++) {
     (img[i].attributes.src.nodeValue)
-    if (img[i].alt.match(/\|?\d+$/)) {
-        img[i].width = img[i].alt.match(/\|?\d+$/)[0].replace('|', '')
+    if (img[i].alt.match(/\|\d+$/)) {
+        console.log(img[i].alt.match(/\|\d+$/))
+        img[i].width = img[i].alt.match(/\|\d+$/)[0].replace('|', '')
     }
     var link = UrlExists(img[i],1);
 }
