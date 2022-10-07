@@ -2,54 +2,67 @@
 
 Chaque Dieu, être de *Hua* pur et d'une conscience propre bien qu'animale, réagit à la valeur dont il est le gardien.
 
-**Bœuf**
+### Bœuf
 *Gardien de la Décision*
 Violet.
-———————❖———————
-**Tigre**
+
+---
+### Tigre
 *Gardien du Courage*
 Vert.
-———————❖———————
-**Lapin**
+
+---
+### Lapin
 *Gardien du Calme*
 Rose.
-———————❖———————
-**Dragon**
+
+---
+### Dragon
 *Gardien de la Vérité*
 Rouge.
-———————❖———————
-**Serpent**
+
+---
+### Serpent
 *Gardien de l'Intelligence*
 Cuivre.
-———————❖———————
-**Cheval**
+
+---
+### Cheval
 *Gardien de la Passion*
 Orange.
-———————❖———————
-**Chèvre**
+
+---
+### Chèvre
 *Gardien de la Bienveillance*
 Argenté.
-———————❖———————
-**Singe**
+
+---
+### Singe
 *Gardien de l'Ingéniosité*
 Ebène.
-———————❖———————
-**Coq**
+
+---
+### Coq
 *Gardien de la Fermeté*
 Marron.
-———————❖———————
-**Chien**
+
+---
+### Chien
 *Gardien de l'Honnêteté*
 Ivoire.
-———————❖———————
-**Porc **
+
+---
+### Porc
 *Gardien de la Générosité*
 Gris colombe.
-———————❖———————
-**Rat**
+
+---
+### Rat
 *Gardien de l'Ambition*
 Bleu.
 
+---
 ## Culte et célébration
 
+---
 ## Autres croyances
