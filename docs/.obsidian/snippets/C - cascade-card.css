@@ -1,0 +1,122 @@
+ .callout[data-callout*="content"] {
+   --box-shadow-color: rgb(0, 0, 0, 0.5);
+   --embed-padding: 1.75em;
+   --border-radius: 4px;
+   --embed-h1: 14px; /* font sizes in markdown embeds */
+   --embed-h2: 12px;
+   --embed-h3: 11px;
+   --embed-normal: 12px;
+   --embed-tag: calc(var(--embed-normal) - 2px);
+   --grid-height: 20em;
+}
+
+.markdown-preview-view.wide .markdown-preview-sizer {
+  width: 98%;
+}
+
+.callout[data-callout*="content"] {border: none;}
+.callout[data-callout*="content"] {background: none;}
+.callout[data-callout*="content"] .callout-title, .callout[data-callout*="content"] 
+li > span .markdown-embed-title  {display: none;}
+
+
+/* == columns == */
+.callout[data-callout="content"] ul {
+  column-count: 3;
+  column-width: 200px;
+  margin: 0 !important;
+  gap: 0.25em !important;
+}
+
+.callout[data-callout="content"][data-callout-metadata*="2"] ul {
+  column-count: 2;
+}
+
+.callout[data-callout="content"] .callout-content > ul > li {
+  page-break-inside: avoid;
+  overflow: hidden;
+}
+
+/* == embed == */
+
+.callout[data-callout*="content"] .markdown-preview-view {
+  box-shadow: 0px 0px 9px 1px var(--box-shadow-color);
+  border-radius: var(--border-radius);
+}
+
+.callout[data-callout*="content"] > .callout-content > ul > li .mod-empty,
+.callout[data-callout*="content"] > .callout-content > ul > li > .internal-embed >
+.markdown-embed > .markdown-embed-content > .markdown-preview-view {
+  margin: 0px 0px 0.4em !important;
+  padding: var(--embed-padding); 
+  width: 100% !important;
+}
+
+.callout[data-callout*="content"] li > span > .markdown-embed {
+  border: none;
+  padding: 0 !important;
+}
+
+.callout[data-callout*="content"] .callout-content > ul > li > span > .markdown-embed > .markdown-embed-content {
+  margin: 0.4em 0.4em 0 0.4em;
+  overflow: visible !important;
+}
+
+.callout[data-callout*="content"] .markdown-embed-link {
+  height: 100%;
+}
+
+.callout[data-callout*="content"] .markdown-embed-link svg {
+  display: none;
+}
+
+/* == grid == */
+
+.callout[data-callout="content-grid"] ul {
+	display: flex;
+	flex-flow: row wrap; 
+	justify-content: flex-start;
+	gap: 0.25em; 
+}
+
+.callout[data-callout="content-grid"] .callout-content > ul > li {
+  flex: 1 1 250px;
+  display: inline-flex;
+}
+
+.callout[data-callout="content-grid"] > .callout-content > ul > li .mod-empty,
+.callout[data-callout="content-grid"] > .callout-content > ul > li > .internal-embed >
+.markdown-embed > .markdown-embed-content > .markdown-preview-view {height: var(--grid-height);}
+
+
+.callout[data-callout="content-grid"] li .markdown-embed > .markdown-embed-content .markdown-preview-view:before {
+  content: '';
+  position: absolute;
+	bottom: 0; 
+  left: -20%;
+  width: 140%;
+  height: 140%;
+  box-shadow: inset 0 0px 20px 15px var(--bg1); 
+}
+
+/* == scale down == */
+
+.callout[data-callout*="content"]  .markdown-embed .markdown-preview-view h1 {
+  font-size: var(--embed-h1);
+}
+
+.callout[data-callout*="content"] .markdown-embed .markdown-preview-view h2 {
+  font-size: var(--embed-h2);
+}
+
+.callout[data-callout*="content"] .markdown-embed .markdown-preview-view h3 {
+  font-size: var(--embed-h3);
+}
+
+.callout[data-callout*="content"] .markdown-embed .markdown-preview-view .markdown-preview-sizer > div *:not(h1, h2, h3) {
+   font-size: var(--embed-normal) !important;
+}
+
+.callout[data-callout*="content"] .markdown-embed .markdown-preview-view .markdown-preview-sizer > div .tag {
+   font-size: var(--embed-tag) !important;
+}

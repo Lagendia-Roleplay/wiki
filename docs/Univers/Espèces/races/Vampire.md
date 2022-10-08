@@ -2,7 +2,6 @@
 title: Vampires
 description: Race de Hadess#9685
 ---
-
 > [!infobox|left]
 > <u>Auteur :</u> `Hadess#9685`
 > <u>Ouvert à la création :</u>

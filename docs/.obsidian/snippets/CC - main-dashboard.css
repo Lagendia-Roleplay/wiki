@@ -1,0 +1,273 @@
+/*-------------- main-dashboard css --------------------------------- */
+
+
+/** yaml - hide front matter **/
+
+.main-dashboard .markdown-preview-view .frontmatter-container {
+    display: none;
+}
+
+.main-dashboard {
+    line-height: 2em !important;
+}
+
+
+/** styling h1 **/
+
+.main-dashboard h1 {
+    padding-top: 0;
+    padding-bottom: 0;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    font-weight: 600;
+    font-size: 2em;
+    margin-top: -1em !important;
+    margin-bottom: -.3em !important;
+    line-height: 2em !important;
+}
+
+.main-dashboard .tag- .main-dashboard h1 a {
+    padding: 0 .5em 0 0.5em;
+    font-size: 2em;
+}
+
+.main-dashboard h1:before,
+.main-dashboard h1:after {
+    content: "";
+    border-top: none;
+    border-radius: .2em;
+    margin: 0 1rem;
+    transform: translateY(-0.1rem);
+    height: 0;
+}
+
+.main-dashboard h1:before {
+    margin-right: 0.3em;
+    flex: 1;
+}
+
+.main-dashboard h1:after {
+    margin-left: 0.3em;
+    flex: 1;
+    width: 100%;
+    display: block;
+}
+
+
+/** banner icon as date - from Rainbell**/
+
+.main-dashboard.home .obsidian-banner-icon .icon-box {
+    content: url("https://api.wolai.com/v1/icon?type=1&locale=fr&pro=0&color=blue");
+}
+
+.main-dashboard h1>mark {
+    background-color: rgba(123, 118, 194, 0.342) !important;
+    border-radius: 5%;
+    color: rgb(31, 26, 92) !important;
+}
+
+
+/**callout 5 columns **/
+
+.main-dashboard .callout[data-callout*="col"] {
+    border-left: 0;
+    background-color: transparent;
+    box-shadow: none;
+}
+
+.main-dashboard .callout[data-callout*="col"] .callout-title {
+    display: none;
+}
+
+.main-dashboard .callout[data-callout*="col"] .callout {
+    overflow: visible;
+    margin: 0;
+}
+
+.main-dashboard .callout[data-callout*="col5"]>.callout-content {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    gap: 0.5rem;
+}
+
+.main-dashboard .callout[data-callout*="col4"]>.callout-content {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 0.5rem;
+}
+
+.main-dashboard .callout[data-callout*="col3"]>.callout-content {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 0.5rem;
+}
+
+.main-dashboard .callout[data-callout*="col2"]>.callout-content {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0.5rem;
+}
+
+.main-dashboard li::marker {
+    color: transparent;
+    font-size: 0;
+}
+
+
+/** ------- nested callout note for culumns ----- **/
+
+.main-dashboard .callout[data-callout="notecol"] {
+    --callout-color: 255, 214, 226;
+    border-left: 0;
+}
+
+.main-dashboard .callout[data-callout="notecol"] .callout-content {
+    border: none;
+    padding: none;
+}
+
+.main-dashboard .callout[data-callout="notecol"] .callout-title {
+    background-color: rgba(var(--callout-color), 0) !important;
+    display: inline !important;
+}
+
+
+/*** nested callout note for culumns | image used as tittle + centered ***/
+
+.main-dashboard .callout[data-callout="notecol"] .callout-title img {
+    border-radius: 0.25em !important;
+    margin: auto;
+    display: block;
+}
+
+
+/*** nested callout note for culumns | icon NOT displayed ***/
+
+.main-dashboard .callout[data-callout="notecol"] .callout-icon {
+    display: none !important;
+}
+
+
+/*** nested callout note for culumns | h3 header always in the center ***/
+
+.main-dashboard .callout[data-callout="notecol"] {
+    background-color: transparent;
+}
+
+.main-dashboard .callout[data-callout="notecol"] .callout-content {
+    margin: 0;
+    overflow: visible;
+    padding: 0 0.3em 0 0.3em;
+    border: none;
+    border-radius: 13px;
+}
+
+.main-dashboard .callout[data-callout="notecol"] .callout-content h3 {
+    text-align: center;
+    padding-top: 0.2em;
+    padding-top: 0;
+    margin-top: 0;
+    font-family: 'Snippet';
+    font-weight: normal;
+    color: var(--font-normal);
+}
+
+
+/*** nested callout note for culumns | divider "---" has no margin ***/
+
+.main-dashboard .callout[data-callout="notecol"] .callout-content hr {
+    margin: 0;
+}
+
+
+/** ------- callout note for culumns - end ----------------- **/
+
+.main-dashboard .callout-content {
+    background: transparent !important;
+    box-shadow: none !important;
+    padding: 0;
+    border: none !important;
+}
+
+.main-dashboard .callout {
+    box-shadow: none !important;
+    border: none !important;
+}
+
+.main-dashboard a.internal-link[href*=".pdf"]::before,
+span.data-link-icon[href*=".pdf"]::before {
+    display: none;
+}
+
+.main-dashboard.markdown-rendered ul,
+.main-dashboard.markdown-rendered ol {
+    padding-inline-start: 1em !important;
+}
+
+.main-dashboard.markdown-preview-view blockquote,
+.main-dashboard.markdown-preview-view ol,
+.main-dashboard.markdown-preview-view p,
+.main-dashboard.markdown-preview-view ul {
+    margin: 0 !important;
+}
+
+.markdown-rendered.fav ul,
+.markdown-rendered.fav ol {
+    padding-inline-start: 5px !important;
+}
+
+.fav {
+    padding: 0 !important;
+    margin: 0 !important;
+    list-style-type: none !important;
+    max-width: 100% !important;
+}
+
+
+.fav .cm-scroller {
+    padding: 0 !important;
+}
+
+.fav .HyperMD-list-line {
+    text-indent: 0 !important;
+    padding-left: 0 !important;
+}
+
+.markdown-source-view.fav.mod-cm6:not(.is-readable-line-width) .cm-contentContainer {
+    margin: 0 !important;
+    padding-left: 0 !important
+}
+
+.is-live-preview.home .cm-hmd-frontmatter {
+    display: none !important;
+}
+
+.fav.markdown-source-view.mod-cm6 .cm-content .HyperMD-list-line {
+    margin-left: 0 !important;
+}
+
+.mod-right-split .fav.markdown-preview-view,
+.mod-left-split .fav.markdown-preview-view,
+.mod-right-split .fav.markdown-source-view,
+.mod-left-split .fav.markdown-source-view {
+    font-size: calc(var(--sidebar-markdown-font-size) + 55%);
+}
+
+button.fav-button {
+    position: relative;
+    left: 25%;
+}
+
+.main-dashboard .callout[data-callout*="col"] .callout {
+    padding: 0 !important;
+}
+
+.main-dashboard.markdown-rendered thead tr {
+    border-bottom: var(--table-border-width) solid var(--table-border-color) !important;
+}
+
+.main-dashboard td {
+    border: 0 !important;
+
+}

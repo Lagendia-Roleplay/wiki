@@ -1,0 +1,210 @@
+.MathJax {
+    font-size: calc(var(--editor-font-size) + 15%);
+}
+
+span.cm-hmd-indented-code.cm-inline-code {
+    font-family: var(--font-editor) !important;
+    line-height: var(--line-height-1) !important;
+    letter-spacing: var(--tracking-0) !important;
+    font-size: var(--font-text-size) !important;
+}
+
+.cm-s-obsidian .HyperMD-header {
+    padding-bottom: 0 !important;
+}
+
+
+.outliner-plugin-bls .CodeMirror-line .cm-hmd-list-indent::before {
+    display: none !important;
+}
+
+
+/* task*/
+header.svelte-yzsyxo {
+    border: 0;
+}
+
+.count.svelte-yzsyxo {
+    color: rgba(17, 53, 65, 0.383) !important;
+    background-color: transparent !important;
+}
+
+ul.svelte-yzsyxo>li.compact.svelte-1q8cjhd>div.content.svelte-1q8cjhd>p>a {
+    color: #4a8ec2 !important;
+}
+
+ul.svelte-yzsyxo>li.compact.svelte-1q8cjhd>div.content.svelte-1q8cjhd>p>a:hover {
+    color: var(--tag-border-color) !important;
+}
+
+.tag-base.svelte-yzsyxo {
+    color: rgb(17, 53, 65) !important;
+}
+
+.count.svelte-yzsyxo {
+    padding: 0 5% !important;
+}
+
+
+/* Remove external link icon */
+
+.markdown-preview-view .external-link {
+    background-image: none;
+    padding-right: 0;
+}
+
+span.cm-hr {
+    filter: none !important;
+}
+
+.is-flashing input[type="checkbox"]:checked:before,
+input[type="checkbox"]:checked:before {
+    top: -3px !important;
+    left: -3px !important;
+}
+
+h1>a.tag {
+    padding: 0 3px !important;
+}
+
+h2>a.tag {
+    padding: 0 2px !important;
+}
+
+h3>a.tag {
+    padding: 1px 3px !important;
+}
+
+h4>a.tag {
+    padding: 1px 3px !important;
+}
+
+h5>a.tag {
+    padding: 1px 3px !important;
+}
+
+h6>a.tag {
+    padding: 1px 5px !important;
+}
+
+.sync-history-content-container {
+    overflow: overlay !important;
+}
+
+.cm-inline-code {
+    color: var(--inline-code) !important;
+}
+
+.bg-active .all-sides .workspace-tabs .workspace-leaf-content .view-content {
+    z-index: 0;
+}
+
+
+.markdown-preview-view img.emoji {
+    display: inline !important;
+    margin: 0 !important;
+}
+
+.CodeMirror-gutter-elt {
+    display: none;
+}
+
+.CodeMirror-activeline .CodeMirror-gutter-elt {
+    display: block;
+}
+
+span.ant-tag {
+    display: none !important;
+}
+
+.menu {
+    max-height: 80% !important;
+}
+
+span.kanban-plugin__item-metadata-date.is-button:before {
+    content: "🗓️ ";
+    font-size: 1.3em;
+}
+
+code.language-expander {
+    display: none !important;
+}
+
+pre.language-expander {
+    width: 0 !important;
+    opacity: 0 !important;
+    padding: 0 !important;
+}
+.NLT__auto-width {
+    white-space: pre-line !important;
+}
+
+div.prompt {
+    min-width: 700px;
+}
+
+.markdown-source-view.mod-cm6.is-line-wrap .cm-content {
+    max-width: 100%;
+}
+
+span.cm-isc-icon.isc-icon.isc-quartz.isc-img-icon,
+.isc-genshin {
+    vertical-align: 1px !important;
+    left: 2px;
+    position: relative;
+}
+
+span.cm-isc-icon.isc-icon.isc-quartz.isc-img-icon>img,
+.isc-genshin>img {
+    width: 24px !important;
+    height: 24px !important;
+}
+
+ul.img-toolbar,
+span.img-title-name, 
+ul.gallery-list,
+.oit-main-container-view .img-footer .gallery-navbar .gallery-list,
+.oit-main-container-view .img-footer .gallery-navbar,
+.oit-main-container-view .img-footer {
+    display: none !important;
+}
+
+.markdown-source-view.mod-cm6 .cm-scroller {
+    font-family: var(--font-editor);
+}
+
+.workspace-leaf.mod-active .nav-folder.has-focus>.nav-folder-title,
+.workspace-leaf.mod-active .nav-file.has-focus,
+.workspace-tabs .workspace-leaf.mod-active {
+    border: 1px solid transparent;
+    background-color: transparent;
+}
+
+.dataview.inline-field-standalone-value {
+    background-color: transparent !important;
+    color: inherit !important;
+    font-family: var(--font-preview) !important;
+    font-style: italic;
+}
+
+
+.workspace-leaf-content[data-type="starred"] .nav-file-title .nav-file-title-content:before {
+    left: 0 !important;
+    position: relative;
+}
+
+.workspace-leaf-content[data-type="starred"] .nav-file-title {
+    font-size: calc(var(--augmente) + 15%) !important;
+}
+ 
+.database-plugin__tr .data-input {
+    text-align: center;
+}
+
+
+.database-plugin__tr .data-input input {
+    font-family: var(--font-text);
+    font-size: var(--font-text-size) !important;
+    text-rendering: optimizeLegibility;
+    line-height: var(--line-height-tight);
+}

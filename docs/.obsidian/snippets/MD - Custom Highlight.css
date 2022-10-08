@@ -1,0 +1,15 @@
+.mention {
+    border-radius: 5px;;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-style: italic;
+    opacity: 0.5;
+}
+
+.theme-dark .mention {
+    color: white;
+}
+
+.theme-light .mention {
+    color: rgb(240, 240, 240);
+}

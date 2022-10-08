@@ -1,0 +1,280 @@
+.markdown-source-view.mod-cm6 .cm-line {
+    position: inherit;
+}
+
+span.is-loaded {
+    display: inline-block !important;
+}
+
+/* ================================================================================
+=                             MOBILE                                           =
+================================================================================
+*/
+
+@media only screen and (max-device-width: 1080px) and (min-device-width: 1024px) {
+
+    /* Ipad / Tablette / Iphone... */
+    .HyperMD-header.HyperMD-header-1,
+    .HyperMD-header.HyperMD-header-2,
+    .HyperMD-header.HyperMD-header-3,
+    .HyperMD-header.HyperMD-header-4,
+    .HyperMD-header.HyperMD-header-5,
+    .HyperMD-header.HyperMD-header-6 {
+        padding-bottom: 1% !important;
+        position: relative;
+        left: -15px;
+    }
+
+    div.cm-line>span.cm-hmd-frontmatter,
+    div.cm-line>span.cm-def.cm-hmd-frontmatter,
+    div.cm-line>span.cm-atom.cm-hmd-frontmatter {
+        position: relative;
+        left: -20px !important;
+    }
+
+    .cm-line:not(.HyperMD-list-line, .HyperMD-header.HyperMD-header-1.cm-line, .HyperMD-header.HyperMD-header-2.cm-line, .HyperMD-header.HyperMD-header-3.cm-line, .HyperMD-header.HyperMD-header-4.cm-line, .HyperMD-header.HyperMD-header-5.cm-line, .HyperMD-header.HyperMD-header-6.cm-line, pre.HyperMD-quote.HyperMD-quote-1.cm-line, .cm-line[data-hashtags="left"]) {
+        position: relative !important;
+        left: 5px;
+    }
+
+    .HyperMD-list-line:not(.HyperMD-list-line-2, .HyperMD-list-line.HyperMD-list-line-3) {
+        position: relative;
+        left: 15px;
+    }
+
+    .markdown-preview-view h1,
+    .markdown-preview-view h2,
+    .markdown-preview-view h3,
+    .markdown-preview-view h4,
+    .markdown-preview-view h5,
+    .markdown-preview-view h6 {
+        margin-bottom: 1% !important;
+        margin-left: -1rem !important;
+    }
+}
+
+
+/* =============================================================================
+=                             PC                                               =
+================================================================================
+*/
+
+@media only screen and (min-device-width: 1080px) {
+    /* PC */
+
+    .inline-title {
+        position: relative;
+        left: -20px;
+    }
+
+    .workspace-leaf-content[data-mode='source'] input.task-list-item-checkbox:not(.kanban-plugin__item-prefix-button-wrapper input[type=checkbox]) {
+        position: relative;
+        left: 25px !important;
+        margin-right: 30px !important;
+    }
+
+    .markdown-source-view.mod-cm6 .cm-scroller {
+        padding-left: var(--marge);
+        padding-right: var(--marge);
+    }
+
+    .markdown-preview-view .callout-content h1,
+    .markdown-preview-view .callout-content h2,
+    .markdown-preview-view .callout-content h3,
+    .markdown-preview-view .callout-content h4,
+    .markdown-preview-view .callout-content h5,
+    .markdown-preview-view .callout-content h6 {
+        margin-left: 0 !important;
+    }
+
+    .markdown-preview-view h1,
+    .markdown-preview-view h2,
+    .markdown-preview-view h3,
+    .markdown-preview-view h4,
+    .markdown-preview-view h5,
+    .markdown-preview-view h6 {
+        margin-bottom: 1% !important;
+        margin-left: -2% !important;
+        margin-top: 1% !important;
+    }
+
+    .markdown-embed-content>.markdown-preview-view h1,
+    .markdown-embed-content>.markdown-preview-view h2,
+    .markdown-embed-content>.markdown-preview-view h3,
+    .markdown-embed-content>.markdown-preview-view h4,
+    .markdown-embed-content>.markdown-preview-view h5,
+    .markdown-embed-content>.markdown-preview-view h6 {
+        margin-left: 0 !important;
+    }
+
+    .HyperMD-quote {
+        left: 0 !important;
+    }
+
+    html .CodeMirror-lines {
+        padding-top: 2% !important;
+    }
+
+    div.cm-line>.cm-fold-indicator+img+span.cm-def.cm-hmd-frontmatter {
+        left: 0em !important;
+        position: relative;
+    }
+
+    div.has-banner>span.cm-def.cm-hmd-frontmatter {
+        left: -0.5em !important;
+        position: relative;
+    }
+
+    div.cm-line:not(.has-banner) span.cm-def.cm-hmd-frontmatter {
+        left: -1em !important;
+        position: relative !important;
+    }
+
+    div.cm-line~span.cm-atom.cm-hmd-frontmatter,
+    div.cm-line~span.cm-atom.cm-hmd-frontmatter+span.cm-hmd-frontmatter.cm-meta,
+    div.cm-line~span.cm-atom.cm-hmd-frontmatter+span.cm-hmd-frontmatter.cm-meta+.cm-hmd-frontmatter,
+    div.cm-line~span.cm-atom.cm-hmd-frontmatter+span.cm-hmd-frontmatter.cm-meta+span.cm-hmd-frontmatter.cm-keyword {
+        padding-left: 0 !important;
+    }
+
+    .HyperMD-quote.HyperMD-quote-1.cm-line {
+        left: 1em !important;
+    }
+
+    div.cm-line:not(
+      .HyperMD-list-line, 
+      .HyperMD-header.HyperMD-header-1.cm-line, 
+      .HyperMD-header.HyperMD-header-2.cm-line, 
+      .HyperMD-header.HyperMD-header-3.cm-line, 
+      .HyperMD-header.HyperMD-header-4.cm-line, 
+      .HyperMD-header.HyperMD-header-5.cm-line, 
+      .HyperMD-header.HyperMD-header-6.cm-line, 
+      .cm-line[data-hashtags="left"], 
+      span.cm-atom.cm-hmd-frontmatter+span.cm-hmd-frontmatter.cm-meta+span.cm-hmd-frontmatter.cm-keyword) {
+        position: relative;
+        left: 10px;
+    }
+
+    .has-banner {
+        position: revert !important;
+    }
+
+    .HyperMD-list-line:not(
+      .HyperMD-list-line-2, 
+      .HyperMD-list-line.HyperMD-list-line-3, 
+      .HyperMD-list-line.HyperMD-list-line-4, 
+      .HyperMD-list-line.HyperMD-list-line-5, 
+      .HyperMD-list-line.HyperMD-list-line-6, 
+      .HyperMD-task-line) {
+        position: relative;
+        left: 30px;
+    }
+}
+
+div[data-tag-name="h1"]+div .block-language-dataview,
+div[data-tag-name="h2"]+div .block-language-dataview,
+div[data-tag-name="h3"]+div .block-language-dataview,
+div[data-tag-name="h4"]+div .block-language-dataview,
+div[data-tag-name="h5"]+div .block-language-dataview,
+div[data-tag-name="h6"]+div .block-language-dataview,
+div[data-tag-name="h7"]+div .block-language-dataview {
+    margin: 0.5em;
+}
+
+h1+table.dataview.table-view-table,
+h2+table.dataview.table-view-table,
+h3+table.dataview.table-view-table,
+h4+table.dataview.table-view-table,
+h5+table.dataview.table-view-table,
+h5+table.dataview.table-view-table,
+h6+table.dataview.table-view-table {
+    margin: 0.5em;
+}
+
+.HyperMD-list-line.HyperMD-list-line-2.cm-line {
+    margin-left: 2em !important;
+}
+
+.HyperMD-list-line.HyperMD-list-line-3.cm-line {
+    margin-left: 2em !important;
+}
+
+.workspace-leaf-content[data-mode='source'] ul,
+ol {
+    padding-left: 2em !important;
+}
+
+.markdown-preview-view .task-list-item-checkbox {
+    margin-left: 1% !important;
+    top: 0;
+}
+
+p {
+    margin-top: 0 !important;
+}
+
+ul.svelte-yzsyxo {
+    padding: 0 !important;
+}
+
+li.svelte-1q8cjhd.svelte-1q8cjhd {
+    padding: 0 !important;
+    background-color: transparent !important;
+}
+
+header.svelte-yzsyxo {
+    padding: 1% !important;
+    padding-left: 5% !important;
+}
+
+div[data-tag-name="p"]+div[data-tag-name="ul"] {
+    margin-top: -20px;
+}
+
+div[data-tag-name="p"]+div[data-tag-name="h1"],
+div[data-tag-name="p"]+div[data-tag-name="h2"],
+div[data-tag-name="p"]+div[data-tag-name="h3"],
+div[data-tag-name="p"]+div[data-tag-name="h4"],
+div[data-tag-name="p"]+div[data-tag-name="h5"],
+div[data-tag-name="p"]+div[data-tag-name="h6"] {
+    margin-top: 0 !important;
+}
+
+li>p {
+    margin-bottom: 0 !important;
+}
+
+ul:not(ul.kanban-plugin__autocomplete.kanban-plugin__ignore-click-outside) {
+    margin-block-start: 0 !important;
+    bottom: 25%;
+    position: relative;
+    top: 0 !important;
+    color: var(--bullet);
+}
+
+ul.kanban-plugin__autocomplete.kanban-plugin__ignore-click-outside {
+    padding-left: 0 !important;
+}
+
+pre.HyperMD-table-2.HyperMD-table-row.HyperMD-table-row {
+    overflow: visible;
+}
+
+.markdown-embed .markdown-preview-section:last-child p,
+.markdown-embed .markdown-preview-section:last-child ul {
+    margin-block-end: revert !important;
+}
+
+.cc-pretty-preview .markdown-preview-view mjx-container[jax="CHTML"][display="true"] {
+    margin: 1em 0 !important;
+}
+
+.cc-pretty-preview .markdown-preview-section>div .math * {
+    margin-bottom: 1px !important;
+}
+
+span.cm-isc-icon.isc-icon.isc-genshin.isc-img-icon > img {
+    vertical-align: -5px !important;
+    width: 32px;
+    height: 32px;
+}
