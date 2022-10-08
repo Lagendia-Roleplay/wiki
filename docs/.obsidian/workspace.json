@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "94064a6c0bf333cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Univers/Espèces/races/Vampire.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Univers/Espèces/races/Vampire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Univers/Espèces/races/Vampire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Univers/Espèces/races/Vampire.md"
               }
             }
           }
@@ -152,17 +164,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "3abc6ff850f49c82",
+  "active": "94064a6c0bf333cb",
   "lastOpenFiles": [
-    "Participer au Wiki.md",
+    "Univers/Espèces/races/Sanktae.md",
+    "Univers/Espèces/races/Vampire.md",
+    "Univers/Espèces/races/index.md",
     "index.md",
+    "Participer au Wiki.md",
     "Univers/Magie/Les invocations et Magies spécifiques.md",
     "Gameplay/La vie d'adulte.md",
     "Univers/Magie/L'Âme et la Magie.md",
     "Univers/Magie/La Magie et les Centres de Puissance.md",
-    "Univers/Magie/La magie élémentaire et environnementale.md",
-    "Univers/Magie/L'Arbre et les types de Magies.md",
-    "Univers/Magie/Le Biologique et le Magique.md",
-    "Univers/Magie/index.md"
+    "Univers/Magie/La magie élémentaire et environnementale.md"
   ]
 }
