@@ -1,11 +1,11 @@
 
 ---
 title: Genasis
-description: Race de Saishan#0040
+description: "Race de Saishan"
 ---
 
 > [!infobox|left]
-> <u>Auteur :</u> Saishan#0040
+> <u>Auteur :</u> `Saishan#0040`
 > <u>Ouvert à la création :</u>
 > - [x] Élève
 > - [x] Citoyen
