@@ -1,20 +1,18 @@
 {
   "main": {
-    "id": "4b0cd03ba283c8ed",
+    "id": "e78c3e4245b4343d",
     "type": "split",
     "children": [
       {
-        "id": "02fa2f5052999205",
+        "id": "c45b16851bc54dfe",
         "type": "tabs",
         "children": [
           {
-            "id": "225a504a7fb2864a",
+            "id": "e49201447f4764c3",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
-              "state": {
-                "file": "test.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -23,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "42ae08bdae34adc5",
+    "id": "5f2f663643e65efd",
     "type": "split",
     "children": [
       {
-        "id": "17eb2aa414e0bdfc",
+        "id": "27dd1751b0c3bdc5",
         "type": "tabs",
         "children": [
           {
-            "id": "4577e33f32bafbf9",
+            "id": "3abc6ff850f49c82",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -41,7 +39,7 @@
             }
           },
           {
-            "id": "5da743ef25383166",
+            "id": "2e60ed0d4fa45d56",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -56,7 +54,7 @@
             }
           },
           {
-            "id": "f22bae70df1d57d6",
+            "id": "2c265765c5c3b5a3",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -67,23 +65,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200.5
   },
   "right": {
-    "id": "a294f857bcfb8c00",
+    "id": "217ad728f0810378",
     "type": "split",
     "children": [
       {
-        "id": "13c4989b5c1b649a",
+        "id": "97772e93a623ccde",
         "type": "tabs",
         "children": [
           {
-            "id": "ca27cc4be37270e2",
+            "id": "6a12087998684764",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,19 +92,18 @@
             }
           },
           {
-            "id": "a082c257e385df1a",
+            "id": "81d12a871b2ceb71",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "c4e1b4c29a932e63",
+            "id": "42004e5a5ec5deed",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -118,22 +114,39 @@
             }
           },
           {
-            "id": "c2707900158f78e3",
+            "id": "57d7103b9b126e48",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "test.md"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "0d845f7346327b0f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "225a504a7fb2864a",
-  "lastOpenFiles": []
+  "active": "e49201447f4764c3",
+  "lastOpenFiles": [
+    "Univers/Espèces/races/Sanktae.md",
+    "Univers/Espèces/races/Vampire.md",
+    "Univers/Espèces/races/index.md",
+    "index.md",
+    "Participer au Wiki.md",
+    "Univers/Magie/Les invocations et Magies spécifiques.md",
+    "Gameplay/La vie d'adulte.md",
+    "Univers/Magie/L'Âme et la Magie.md",
+    "Univers/Magie/La Magie et les Centres de Puissance.md",
+    "Univers/Magie/La magie élémentaire et environnementale.md"
+  ]
 }
