@@ -32,7 +32,7 @@ tags:
 | Stydja Eyreya    | Machina _(Defensio)_                     | 19 ans | 1.63m  | \-           | \-        | \- & \-                 |
 | White                    | Demi-Ifrit                               | 17 ans | 1.75m  | 07/02        | Chercheur | Journalisme & \-        |
 | Blaïka (RE)         | Loup-Garou                               | 20 ans | 1.9m   | 31/12        | \-        | Sport & Duel            |
-| Damas Aberforth | \-                                       | \- ans | \-m    | \-           | \-        | \- & \-                 |
+| Damas Aberforth | Genasi (Terre)                           | 18 ans | 2.02m  | \-           | \-        | \- & \-                 |
 | Kortals Avana     | Elfe                                     | 16 ans | 1m30m  | \-           | \-        | \- & \-                 |
 | Hazel                    | Mi humaine Mi dynastinae (Rhode) / Dekka | 18 ans | 1.67m  | \-           | \-        | Journalisme & \-        |
 | Isaac Bergeron  | Vampire                                  | 17 ans | 1.72m  | \-           | \-        | Cuisine & \-            |
@@ -41,11 +41,12 @@ tags:
 
 # Professeur
 
-| Fichier                                                                  | Joueur     | Race     | Taille | Rôle                           | Âge    | Anniversaire |
-| ------------------------------------------------------------------------ | ---------- | -------- | ------ | ------------------------------ | ------ | ------------ |
-| Ichida               | Aljiradin  | Demi-Oni | 1.8m   | Professeur de combat rapproché | 48 ans | 14/02        |
-| Raudhr               | Raudhr     | ?        | 1.92m  | Stratégie                      | 28 ans | 31/10        |
-| Ruby & Esther | Danatheles | ?        | 1.7m   | Survie & exploration           | ? ans  | ?            |
+| Fichier                                                                  | Joueur     | Race     | Taille     | Rôle                           | Âge    | Anniversaire |
+| ------------------------------------------------------------------------ | ---------- | -------- | ---------- | ------------------------------ | ------ | ------------ |
+| Gaea Cleric     | JuneArt    | Caithán  | 2.10-2.50m | Zoologie                       | ? ans  | \-           |
+| Ichida               | Aljiradin  | Demi-Oni | 1.8m       | Professeur de combat rapproché | 48 ans | 14/02        |
+| Raudhr               | Raudhr     | ?        | 1.92m      | Stratégie                      | 28 ans | 31/10        |
+| Ruby & Esther | Danatheles | ?        | 1.7m       | Survie & exploration           | ? ans  | ?            |
 
 
 # Personnel
