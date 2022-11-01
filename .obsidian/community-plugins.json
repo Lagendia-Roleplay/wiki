@@ -1,7 +1,11 @@
 [
-  "folder-note-core",
   "alx-folder-note",
+  "dataview",
+  "dbfolder",
+  "folder-note-core",
   "obsidian-front-matter-title-plugin",
   "obsidian-linter",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-minimal-settings",
+  "templater-obsidian"
 ]

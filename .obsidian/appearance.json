@@ -1,20 +1,24 @@
 {
-  "accentColor": "#487ce5",
+  "accentColor": "",
   "enabledCssSnippets": [
     "C - cascade-card",
     "CC - main-dashboard",
     "custom-admonition.custom",
     "custom-admonitions.9dad17",
-    "IMG - Grid float",
-    "MD - Custom Attributes",
-    "MD - Custom Highlight",
-    "MD - Custom Syntax",
-    "S - Aside",
-    "S - Dataview Cards",
-    "S - Embed Adjustments",
-    "S - Kanban",
     "S - smooth-live-headers",
-    "G - Position",
-    "G - Tweaks"
-  ]
+    "S - Kanban",
+    "S - Embed Adjustments",
+    "S - Dataview Cards",
+    "S - Callouts",
+    "S - Aside",
+    "MD - Custom Syntax",
+    "MD - Custom Highlight",
+    "MD - Custom Attributes",
+    "IMG - Grid float"
+  ],
+  "cssTheme": "",
+  "interfaceFontFamily": "Inter",
+  "textFontFamily": "Ubuntu",
+  "monospaceFontFamily": "Fantasque Sans Mono",
+  "baseFontSize": 17
 }

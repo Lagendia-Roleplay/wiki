@@ -11,8 +11,12 @@
             "id": "e49201447f4764c3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "docs/Gameplay/Parcours & spécialité/Sages.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/Gameplay/Parcours & spécialité/Sages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs/Gameplay/Parcours & spécialité/Sages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "docs/Gameplay/Parcours & spécialité/Sages.md"
+              }
             }
           },
           {
@@ -138,15 +146,15 @@
   },
   "active": "e49201447f4764c3",
   "lastOpenFiles": [
+    "docs/Gameplay/Parcours & spécialité/Aegis.md",
+    "docs/Gameplay/Parcours & spécialité/Maîtres.md",
+    "docs/Gameplay/Parcours & spécialité/Sages.md",
+    "docs/Gameplay/Parcours & spécialité/Chercheurs.md",
+    "docs/Gameplay/Passage de grade.md",
+    "docs/Univers/Espèces/races/index.md",
     "Univers/Espèces/races/Sanktae.md",
     "Univers/Espèces/races/Vampire.md",
     "Univers/Espèces/races/index.md",
-    "index.md",
-    "Participer au Wiki.md",
-    "Univers/Magie/Les invocations et Magies spécifiques.md",
-    "Gameplay/La vie d'adulte.md",
-    "Univers/Magie/L'Âme et la Magie.md",
-    "Univers/Magie/La Magie et les Centres de Puissance.md",
-    "Univers/Magie/La magie élémentaire et environnementale.md"
+    "index.md"
   ]
 }

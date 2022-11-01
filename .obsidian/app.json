@@ -1,9 +1,5 @@
 {
-  "attachmentFolderPath": "_img",
   "showUnsupportedFiles": true,
-  "foldIndent": true,
-  "showInlineTitle": false,
-  "promptDelete": false,
-  "newLinkFormat": "relative",
-  "alwaysUpdateLinks": true
+  "attachmentFolderPath": "docs/assets/img",
+  "readableLineLength": false
 }
