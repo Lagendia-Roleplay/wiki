@@ -10,6 +10,7 @@
   --power: 238, 113, 158;
   --buff: 76, 136, 174;
   --passif: 196, 150, 130;
+  --md-admonition-icon--col5: var(--md-admonition-icon--power);
 
   /*--md-admonition-icon--name:url('data:image/svg+xml;charset=utf-8,'); */
 }
@@ -196,6 +197,7 @@
 }
 
 .md-typeset .admonition.grid,
+.md-typeset .admonition.col5,
 .md-typeset details.grid,
 .md-typeset details.infobox,
 .md-typeset .admonition.infobox {
@@ -205,6 +207,8 @@
 
 .md-typeset .grid>.admonition-title,
 .md-typeset .infobox>.admonition-title,
+.md-typeset .col5>.summary,
+.md-typeset .col5>.admonition-title,
 .md-typeset .grid>.summary,
 .md-typeset .infobox>.summary {
   display: none;
@@ -212,6 +216,8 @@
 
 .md-typeset .grid>.admonition-title::before,
 .md-typeset .grid>summary::before,
+.md-typeset .col5>.admonition-title::before,
+.md-typeset .col5>summary::before,
 .md-typeset .infobox>.admonition-title::before {
   background-color: transparent;
   -webkit-mask-image: var(--md-admonition-icon--grid);
@@ -223,4 +229,31 @@
 .admonition.pen {
   box-shadow: none;
   border: none;
+}
+
+.admonition.infobox>h3 {
+  font-size: 20px;
+  text-align: center;
+  margin: 0;
+  padding: 2px;
+  color: var(--md-admonition-fg-color);
+  background: #26262691;
+}
+
+.admonition.infobox img {
+  margin-left: 25%;
+}
+
+.admonition.infobox>.admonition-title+p {
+  width: auto;
+  height: 11em;
+}
+
+.admonition.grid {
+  box-shadow: none !important;
+}
+
+.admonition.grid .admonition.infobox:hover{
+  transform: translate(42px, 18px);
+  transition: transform 0.5s ease;
 }

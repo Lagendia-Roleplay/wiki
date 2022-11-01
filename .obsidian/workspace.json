@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Gameplay/Parcours & spécialité/Aegis.md",
+                "file": "docs/Gameplay/Boutique.md",
                 "mode": "source",
-                "source": false
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "41d56c745ba5dc91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Gameplay/Boutique.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Gameplay/Parcours & spécialité/Aegis.md",
+                "file": "docs/Gameplay/Boutique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Gameplay/Parcours & spécialité/Aegis.md",
+                "file": "docs/Gameplay/Boutique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Gameplay/Parcours & spécialité/Aegis.md"
+                "file": "docs/Gameplay/Boutique.md"
               }
             }
           },
@@ -142,19 +155,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "e49201447f4764c3",
+  "active": "41d56c745ba5dc91",
   "lastOpenFiles": [
-    "docs/Gameplay/Parcours & spécialité/Chercheurs.md",
     "docs/Gameplay/Parcours & spécialité/Aegis.md",
+    "docs/_img/Poudre_force.png",
+    "docs/_img/Lagendia_logo 1.webp",
+    "docs/Gameplay/Boutique.md",
+    "docs/Gameplay/Parcours & spécialité/Chercheurs.md",
     "docs/Gameplay/Parcours & spécialité/Sages.md",
     "docs/Gameplay/Parcours & spécialité/Maîtres.md",
     "docs/Gameplay/Passage de grade.md",
     "docs/Univers/Espèces/races/index.md",
-    "Univers/Espèces/races/Sanktae.md",
-    "Univers/Espèces/races/Vampire.md",
-    "Univers/Espèces/races/index.md",
-    "index.md"
+    "Univers/Espèces/races/Sanktae.md"
   ]
 }

@@ -1,5 +1,6 @@
 {
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "docs/assets/img",
-  "readableLineLength": false
+  "attachmentFolderPath": "docs/_img",
+  "readableLineLength": false,
+  "alwaysUpdateLinks": true
 }

@@ -14,11 +14,13 @@
     "MD - Custom Syntax",
     "MD - Custom Highlight",
     "MD - Custom Attributes",
-    "IMG - Grid float"
+    "IMG - Grid float",
+    "callouts_col"
   ],
   "cssTheme": "",
   "interfaceFontFamily": "Inter",
   "textFontFamily": "Ubuntu",
   "monospaceFontFamily": "Fantasque Sans Mono",
-  "baseFontSize": 17
+  "baseFontSize": 17,
+  "theme": "obsidian"
 }
