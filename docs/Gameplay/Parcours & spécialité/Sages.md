@@ -1,7 +1,9 @@
 Les Sages sont des versatiles très axés sur l'aide à autrui et le support, quelle que soit sa façon. Ils sont d'habitude altruistes, et emplis d'un grand savoir sur le monde et les races, usant de leurs pouvoirs bienfaiteurs pour aider les premières lignes depuis les lignes arrières. 
 
 ### ❖ — Sage Alchimiste — ❖
->[!info] Spécialité dédiée à la création de tous types d’objets et potions à vocation d’aider ses alliés, par le soin ou l’amélioration temporaire grâce à la connaissance des plantes et de son *Hua*. 
+
+> [!info] Spécialité dédiée à la création de tous types d’objets et potions à vocation d’aider ses alliés, par le soin ou l’amélioration temporaire grâce à la connaissance des plantes et de son *Hua*. 
+> **Spécialités:** Potions | Herboristerie.
 
 - **G1** – Pour 50Ae et les matériaux requis, possibilité de créer des potions de bonus temporaires n’excédant pas +5 aux dés. Leurs effets et efficacité varient sur un résultat de 1d5 pour le bonus, et 1d10 (heures inRP) pour la durée.
 	- +3 dans une capacité de soins ou buff.
@@ -15,9 +17,10 @@ Les Sages sont des versatiles très axés sur l'aide à autrui et le support, qu
 - **G4** - Pour 20Ae et les matériaux requis, possibilité de créer des potions de bonus temporaires n’excédant pas +18 aux dés. Leurs effets et efficacité varient sur un résultat de 3d6 pour le bonus, et 3d8 (heures inRP) pour la durée.
 	- +5 dans toutes les capacités.
 
-
 ### ❖ — Sage Enchanteur — ❖
->[!info] Axés dans le soin et le buff, ces aspirants ont une maîtrise plus que précise et excellente en leur *Hua*. Capables de l'insuffler en magie de la Vie pour réparer les plus fins tissus ou accélérer le flot de *Hua*, ils sont de parfaits alliés prêts à aider les autres depuis les lignes arrières. 
+
+> [!info] Axés dans le soin et le buff, ces aspirants ont une maîtrise plus que précise et excellente en leur *Hua*. Capables de l'insuffler en magie de la Vie pour réparer les plus fins tissus ou accélérer le flot de *Hua*, ils sont de parfaits alliés prêts à aider les autres depuis les lignes arrières. 
+> **Spécialités :** Potions | Magie.
 
 - **G1** – +5 dans les capacités de soins et de buff.
 	- Les soins soignent légèrement plus et les buffs donnent +3 de bonus aux dés en plus. 
@@ -32,9 +35,10 @@ Les Sages sont des versatiles très axés sur l'aide à autrui et le support, qu
 - **G4** – Les soins soignent beaucoup plus et les buffs donnent +10 de bonus aux dés.
 	- +5 dans toutes les capacités. 
 
-
 ### ❖ — Sage Noir — ❖
->[!info] Professionnels de l’entrave et des tactiques indirectes pour faire fondre leurs adversaires, ils excellent en l’art du poison ou du contrôle de foule pour affaiblir l’ennemi et offrir de véritables ouvertures à leurs alliés. 
+
+> [!info] Professionnels de l’entrave et des tactiques indirectes pour faire fondre leurs adversaires, ils excellent en l’art du poison ou du contrôle de foule pour affaiblir l’ennemi et offrir de véritables ouvertures à leurs alliés. 
+> **Spécialités :** Potions | Herboristerie.
 
 - **G1** – +2 dans toutes les capacités.
 	- +3 dans les capacités de débuff.
