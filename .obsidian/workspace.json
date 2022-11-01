@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Gameplay/Parcours & spécialité/Sages.md",
+                "file": "docs/Gameplay/Parcours & spécialité/Aegis.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Gameplay/Parcours & spécialité/Sages.md",
+                "file": "docs/Gameplay/Parcours & spécialité/Aegis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Gameplay/Parcours & spécialité/Sages.md",
+                "file": "docs/Gameplay/Parcours & spécialité/Aegis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Gameplay/Parcours & spécialité/Sages.md"
+                "file": "docs/Gameplay/Parcours & spécialité/Aegis.md"
               }
             }
           },
@@ -146,10 +146,10 @@
   },
   "active": "e49201447f4764c3",
   "lastOpenFiles": [
-    "docs/Gameplay/Parcours & spécialité/Aegis.md",
-    "docs/Gameplay/Parcours & spécialité/Maîtres.md",
-    "docs/Gameplay/Parcours & spécialité/Sages.md",
     "docs/Gameplay/Parcours & spécialité/Chercheurs.md",
+    "docs/Gameplay/Parcours & spécialité/Aegis.md",
+    "docs/Gameplay/Parcours & spécialité/Sages.md",
+    "docs/Gameplay/Parcours & spécialité/Maîtres.md",
     "docs/Gameplay/Passage de grade.md",
     "docs/Univers/Espèces/races/index.md",
     "Univers/Espèces/races/Sanktae.md",
