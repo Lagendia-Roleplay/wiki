@@ -2,6 +2,7 @@ Les chercheurs sont des érudits en quête de savoir, en général peu friands d
 
 ### ❖ — Chercheur Aventurier — ❖
 >[!info] Connaisseurs du monde, cette spécialité forme des chercheurs aux premières lignes avides d'exploration, capables d’analyser et de répertorier ses nouvelles connaissances pour le bien commun. 
+> **Spécialités:** Survie & Exploration | Zoologie | Herboristerie.
 
 - **G1** – +2 dans toutes les capacités.
 	- +3 dans tous les jets de type observation et analyses environnementaux.. 
@@ -24,6 +25,7 @@ Les chercheurs sont des érudits en quête de savoir, en général peu friands d
 
 ### ❖ — Chercheur Ingénieur — ❖
 >[!info] Esprits capables et très manuels. Orientés dans les métiers manuels comme la forgerie ou l’ingénierie, ces chercheurs usent de leur savoir sur le monde et l’histoire pour perpétuer ou innover sur les fabrications du monde.
+> **Spécialités:** Ingénierie | Magie | Histoire.
 
 - **G1** – +2 dans toutes les capacités. 
 	- Pour 120Ae, possibilité de créer des objets personnalisés de combat ou non, avec un bonus aux dés fixe de +1 définitif pour un type de lancers de dés défini. 
@@ -38,3 +40,21 @@ Les chercheurs sont des érudits en quête de savoir, en général peu friands d
 
 - **G4** - Pour 100Ae, possibilité d’améliorer un objet créé et lui ajouter un bonus définitif de +2 (+5 au total) .
 	- +7 dans les jets d’observation.
+
+
+### ❖ — Chercheur Historien — ❖
+>[!info] Grands érudits à la recherche et soif de connaissances insatiable, ils étudient l’ancien monde et le Hua pour une utilisation et un enseignement précis. Grands analystes hors combat, ils sont une véritable bibliothèque de savoir. 
+> **Spécialités**: Histoire | Zoologie.
+
+- G1 – Possibilité de créer son propre Livre de Connaissances pour y répertorier son savoir et ses observations. Lorsque quelque chose est correctement observé, pour 50Ae, possibilité d’ajouter une page qui confère un bonus de +3 quand une observation sur le même type de chose (mécanisme, faune, etc..) est relancée à l’aide du Livre.
+	- +2 dans toutes les capacités.
+	- +3 dans les jets d’observation.
+- G2 – Le bonus du Livre de Connaissances passe à +5 pour le même prix.
+	- +5 dans toutes les capacités.
+	- Lors d’une quête, possibilité de lancer 1d10 après une observation. Sur 9 ou plus, possibilité d’obtenir toutes les informations sur la chose observée. Utilisable une seule fois par quête.
+	- +3 dans les jets d’observation.
+- G3 – Le bonus du Livre de Connaissances passe à +7 pour le même prix.
+     - Lors d’une quête, possibilité de lancer 1d10 après une observation. Sur 7 ou plus, possibilité d’obtenir toutes les informations sur la chose observée. Utilisable une seule fois par quête.
+     - +3 dans les jets d’observation.
+-  G4 - Le bonus du Livre de Connaissances passe à +10 pour le même prix.
+	- +5 dans les jets d’observation.
