@@ -1,7 +1,6 @@
 site_name: Lagendia
-site_description: bloup
+site_description: Lagendia, le monde de bien des créatures. Un monde qui a été surnommé "Les Terres Promises" selon quelques croyances, tant la Nature y est splendide et généreuse. Elles seraient un monde offert par les dieux, afin d'y faire prospérer la Vie elle-même ©️ Raudhr — Roleplay FR
 site_url: https://lagendia-wiki.netlify.app
-
 theme:
     name: 'material'
     logo: _template/meta/favicons.jpg
