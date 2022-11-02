@@ -7,6 +7,7 @@ repo: Lagendia-Roleplay/wiki
 share: true
 type: notes
 univers: Lagendia
+author: Mara
 ---
 %% [[../../../Compendium/Mnémosyne/index|Mnémosyne]]/ [[../../../Lagendia/Relations Mnémosyne|Lagendia]]/ [[Sanktae|Sanktae]]%%
 %%→ [[10. PROJECT/Lagendia/Mnémosyne/Fiche#◌ Les Sanktae ◌|Généralité]] %%
