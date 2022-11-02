@@ -1,4 +1,6 @@
 ---
+attachmentLinks: docs/_img
+author: Mara
 autoclean: false
 category: Personnages
 dataview: true
