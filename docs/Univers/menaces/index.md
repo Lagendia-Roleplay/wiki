@@ -3,7 +3,7 @@ title: Menaces connues
 author: Choupa
 ---
 
-<i style="text-align: right">“Pour votre sécurité, veuillez emprunter le Sentier de la Gloire pour vous rendre à la Capitale.” -Extrait du règlement d’Etria</i>
+<i style="text-align: right;display:block;">“Pour votre sécurité, veuillez emprunter le Sentier de la Gloire pour vous rendre à la Capitale.” -Extrait du règlement d’Etria</i>
 
 ## Terres sauvages
 
