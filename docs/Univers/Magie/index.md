@@ -9,7 +9,7 @@ illustration: Raudhr
 
 ## Hua
 
-Si la ressource primitive du monde se nomme le *Hua*, elle régit dans un point au centre de Lagendia, et en constitue une **==toile éthérée**== qui crée ainsi la flore et la vie naturelle sur les terres. Son flot se régule naturellement et retourne à la terre lors de la mort des êtres vivants, permettant une régénération énergétique en continue. Ce cycle est plus communément nommé « **==La Rivière de la Vie==**. »
+Si la ressource primitive du monde se nomme le *Hua*, elle régit dans un point au centre de Lagendia, et en constitue une **==toile éthérée==** qui crée ainsi la flore et la vie naturelle sur les terres. Son flot se régule naturellement et retourne à la terre lors de la mort des êtres vivants, permettant une régénération énergétique en continue. Ce cycle est plus communément nommé « **==La Rivière de la Vie==**. »
 À la mort des êtres, leur Hua **==retourne à la nature==**, même s’ils ont insufflé cette dernière dans un objet.
 
 Pour les êtres, quelle que soit leur nature, le *Hua* se déverse en eux à partir d'un nœud aethéré central, appelé le **Point Cœur** et découlant en plusieurs **Centres de Puissance**, constituant l'Âme de l'être. C'est grâce à ce flot que la magie devient possible, couplée à un contrôle du Hua et une manipulation élémentaire.
