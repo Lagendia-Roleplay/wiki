@@ -1,5 +1,5 @@
 ---
-attachmentLinks: _img
+attachmentLinks: docs/_img
 author: Mara
 autoclean: false
 category: Personnages
