@@ -22,5 +22,4 @@ L’[[Étria, l'académie|Académie d’Etria]] est la seule école de magie du 
 
 L’Académie à pour but de former les jeunes étudiants, créatures en tout genre, à les intégrer dans ce monde nouveau. C’est un établissement prestigieux, reconnu et réputé sur tout le continent.
 
-> [!grid]
-> ![[annexe_fondation_etria.png]]
+<div markdown="1" class="center"> ![[annexe_fondation_etria.png]] </div>

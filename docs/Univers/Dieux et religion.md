@@ -76,5 +76,4 @@ Le culte des Douze s’est instauré lors de l’arrivée dans le Nouveau Monde.
 
 Il **n’existe PAS** d’autres réelles divinités que les Douze. Il n’est cependant pas impossible de trouver chez certaines espèces un **==culte**== qui vénère une personne ou un concept comme tel, bien qu’il n’y ait aucune vraie religion derrière, simplement une ==**croyance==**.
 
-> [!grid]
-> ![[annexe_dieu_religion.png]]
+<div markdown="1" class="center"> ![[annexe_dieu_religion.png]] </div>

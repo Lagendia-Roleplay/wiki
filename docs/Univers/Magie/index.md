@@ -36,5 +36,4 @@ Un **==cristal d'Aetherite==** marche comme une batterie, utilisant l’Hua envi
 
 Il est possible d'insuffler son Hua dans un objet, mais ce dernier perd toute capacité à la mort de la personne. Beaucoup plus rare, car demandant une maîtrise plus complexe et  très instable, de l’Hua “brute” peut être infusée dans un objet sans aide de cristaux.
 
-> [!grid]
-> ![[annexe_magie_1.png]] ![[annexe_magie_2.png]] ![[annexe_magie_3.png]]
+<div markdown="1" class="center"> ![[annexe_magie_1.png]] ![[annexe_magie_2.png]] ![[annexe_magie_3.png]]</div>

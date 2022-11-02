@@ -4,7 +4,7 @@
     max-width: 61rem
 }
 
-.md-typeset .grid {
+.md-typeset .grid{
     grid-gap: .4rem;
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
