@@ -11,12 +11,14 @@ repo: Lagendia-Roleplay/wiki
 share: true
 title: Personnages des joueurs
 attachmentLinks: _img
+author: Mara
 tags:
   - Lagendia
   - MOC
 ---
 
-#Lagendia #MOC
+%% #Lagendia #MOC %%
+
 # Élève
 
 | Élève                                                                           | Race                                     | Âge    | Taille       | Anniversaire | Parcours  | Club                    |
