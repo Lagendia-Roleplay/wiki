@@ -231,7 +231,7 @@
   border: none;
 }
 
-.admonition.infobox>h3 {
+.admonition.grid .admonition.infobox>h3 {
   font-size: 20px;
   text-align: center;
   margin: 0;
@@ -240,7 +240,7 @@
   background: #26262691;
 }
 
-.admonition.infobox img {
+.admonition.grid .admonition.infobox img {
   margin-left: 25%;
 }
 
