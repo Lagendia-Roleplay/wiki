@@ -2,7 +2,7 @@
 author: Choupa
 ---
 
-<i style="text-align: right">La technologie est similaire à celle du XIV-XVème siècle, avec toutefois un usage de la magie utilisée pour quelques machines plus modernes, telle que l’imprimerie.</i>
+<i style="text-align: rigth;display:block;">La technologie est similaire à celle du XIV-XVème siècle, avec toutefois un usage de la magie utilisée pour quelques machines plus modernes, telle que l’imprimerie.</i>
 
 ## Sciences
 

@@ -5,7 +5,7 @@ author: Raudhr, Melkhior
 illustration: Raudhr
 ---
 
-<i style="text-align: right">Pour les êtres vivants, quelle que soit leur nature, le Hua se déverse en eux à partir d'un nœud aethéré central, appelé le Point Cœur. C'est grâce à ce flot que la magie devient possible.</i>
+<i style="text-align: rigth;display:block;">Pour les êtres vivants, quelle que soit leur nature, le Hua se déverse en eux à partir d'un nœud aethéré central, appelé le Point Cœur. C'est grâce à ce flot que la magie devient possible.</i>
 
 ## Hua
 

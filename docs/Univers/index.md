@@ -2,7 +2,7 @@
 title: Fondation d'Étria
 ---
 
-<i style="text-align: right">“Le but de l’Académie est de perpétuer les connaissances du Monde, d’éviter un nouveau fléau tel que l’Ancien Monde.”</i>
+<i style="text-align: rigth;display:block;">“Le but de l’Académie est de perpétuer les connaissances du Monde, d’éviter un nouveau fléau tel que l’Ancien Monde.”</i>
 
 ## Lagendia, Le monde
 
