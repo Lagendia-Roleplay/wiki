@@ -1,3 +1,7 @@
+---
+author: Raudhr
+---
+
 ## Grade 0
 
 **❖ — Conditions—❖**

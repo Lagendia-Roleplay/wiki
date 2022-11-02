@@ -2,6 +2,7 @@
 ---
 title: Genasis
 description: "Race de Saishan"
+author: Saishan
 ---
 
 > [!infobox|left]

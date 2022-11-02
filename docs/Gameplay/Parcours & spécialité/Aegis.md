@@ -1,3 +1,8 @@
+---
+author: Raudhr
+---
+
+
 Les Aegis sont des spécialites de la défense et de tous types de protections. De l'agilité ou la robustesse, ils n'ont pas froid aux yeux et sont très difficiles à venir à bout, amplifiant leurs défenses impassables grâce à leur *Hua*. Ils sont de précieux alliés au combat.
 
 ### ❖ — Aegis Solaire — ❖

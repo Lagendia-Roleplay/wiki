@@ -1,5 +1,6 @@
 ---
 description: "Les matières biologiquement générées par le corps de lui-même (de par l'espèce et ses attributs raciaux) peuvent avoir un attribut énergétique ou environnemental (ici biologique, par simplicité d'expression) dépendant des conditions de leur génération."
+author: Raudhr
 ---
 
 ## Le biologique

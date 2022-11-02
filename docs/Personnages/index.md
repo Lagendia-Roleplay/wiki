@@ -1,5 +1,6 @@
 ---
 title: "Personnages non joueurs"
+author: Raudhr, Hadess
 ---
 
 ## ❖ —  **Directeur** - ??? — ❖
@@ -12,7 +13,9 @@ Il porte toujours du blanc, allié à sa grande barbe grisonnante.
 Il est de taille relativement petite.
 <div style="height:8em;display:block;"></div>
 <div style="height:15%;display:block;"></div>
+
 ## ❖ —  **Responsable des Cuisines** - Ottie Li ("Big Mama") — ❖
+
 >[!infobox|left]
 >![[../_img/BigMama.png]]
 
@@ -20,6 +23,7 @@ Une cheffe ogresse au palais extrêmement fin et au perfectionnisme redoutable. 
 Elle est redoutée et redoutable. Sa voix porte très loin, c'en est effrayant.
 
 <div style="height:2em;display:block;"></div>
+
 ## ❖ —  **Bibliothécaire** - M. Alli Charles ("Le Connaisseur") — ❖
 
 >[!infobox|left]
@@ -30,7 +34,9 @@ Il est de très bon conseil et a un langage parfois un peu trop soutenu ou philo
 On soupçonne ses cordes vocales de s'être atrophiées, depuis le temps qu'il s'essouffle à faire taire les élèves ou à chuchoter pour "ne pas déranger les livres." Oui, les livres, non les lecteurs.
 
 <div style="height:2em;display:block;"></div>
+
 ## ❖ —  **Infirmier** - Lethr Shiro — ❖
+
 >[!infobox|left]
 >![[../_img/infirmier.png]]
 
@@ -38,7 +44,9 @@ Spécialiste de la magie de la Vie et des herbes médicinales, ce jeune homme de
 Il lui arrive d'avoir parfois le réflexe de vouloir lécher une plaie, avant de se stopper en bafouillant, mort de honte. Il est légèrement timide mais blagueur, et sais garder son calme dans toutes circonstances. Il est toujours là pour aider les élèves, même s'il s'agit de simplement les écouter, et de panser leurs plaies, quelles qu'elles soient.
 Son Hua et ses soins ont une douce odeur de lavande.
 <div style="height:2em;display:block;"></div>
+
 ## ❖ —  **Professeur d'Histoire** - M. Uriel Eeryé  — ❖
+
 >[!infobox|left]
 >![[../_img/prof_histoire.png]]
 

@@ -1,6 +1,8 @@
 ---
 title: Dés
+author: Raudhr
 ---
+
 ## Fonctionnement
 
 La plupart de vos actions notables se fera sous l'influence d'un système de dés. Un jet (ou roll) de dé vous sera demandé, notamment lorsqu'il s'agit des scènes de combat pour un meilleur équilibrage des forces.
@@ -16,7 +18,7 @@ Il y a une petite hiérarchie à respecter concernant les rolls:
 - Les citoyens **roll contre les enseignants / le personnel.**
 
 ---
-Le système utilise un dé 100, vous octroyant un résultat de 1 à 100. Sa commande est `/roll` ; sélectionnez la commande qui apparaît à l'écran, puis entrez `1d100`. Si altération, ajoutez simplement la valeur à la fin de votre commande (e.g 1d100+5).
+Le système utilise un dé 100, vous octroyant un résultat de 1 à 100. Sa commande est `/roll` ; sélectionnez la commande qui apparaît à l'écran, puis entrez `1d100`. Si altération, ajoutez simplement la valeur à la fin de votre commande (e.g `1d100+5`).
 
 ---
 
@@ -34,19 +36,22 @@ Pour esquiver une attaque, le résultat de votre jet d'esquive devra être supé
 
 ---
 Avant chaque jet de dé, veuillez préciser l'action pour laquelle vous lancez les dés. Pour ce faire, ajoutez après votre commande `#une note comme ceci`.. N'oubliez pas le `#`.
-- Si c'est un combat [ Attaque | Défense | Moral ( si vous l’utilisez ) ]
+- Si c'est un combat `[ Attaque | Défense | Moral ( si vous l’utilisez ) ]`
 - Si ce n'est pas un combat, précisez vaguement votre intention.
 
 ---
-Il est important de noter que, lors d'un Echec Extrême (1) ou d'un Echec Critique (2-5), qu'importe votre bonus, l'EE sera forcément appliqué. 
-Il en va de même pour votre Réussite Extrême(100) et Réussite Critique (95-99), qu'importe votre malus. 
+Il est important de noter que, lors d'un Echec Extrême ($1$) ou d'un Echec Critique ($2-5$), qu'importe votre bonus, l'EE sera forcément appliqué. 
+Il en va de même pour votre Réussite Extrême($100$) et Réussite Critique ($95-99$), qu'importe votre malus. 
 
 ## Capacités et notes
 
 Il y aura certaines capacités qui nécessiteront un nombre de jets limités par jour (inRP), évitant ainsi de répéter sans arrêt la même action jusqu’à qu’elle réussisse, en fonction de la puissance ou de l’utilité de ladite capacité. Cette limite par jour augmentera avec vos passages de grades, en fonction de votre parcours choisi. 
 
-*Cas d’exemple: Un personnage Healer pourra utiliser ses capacités de soin trois fois par jour. Un personnage DPS ne sera en mesure de l’utiliser qu’une seule fois par jour.*
+> [!example] Cas d'exemple
+> Un personnage Healer pourra utiliser ses capacités de soin trois fois par jour. Un personnage DPS ne sera en mesure de l’utiliser qu’une seule fois par jour.
 
 Si votre action échoue, votre lancé est donc perdu. 
-À noter : certaines capacités auront une plus grande limite ou cooldown. 
+
+> [!info] Certaines capacités auront une plus grande limite ou cooldown. 
+
 Les compétences de buff apporteront un bonus conditionnel en fonction de votre grade et votre parcours.

@@ -1,3 +1,6 @@
+---
+author: Raudhr
+---
 Les chercheurs sont des érudits en quête de savoir, en général peu friands de combats. Cependant, leur savoir leur permet d'aider à la découverte du monde et à préparer leurs alliés au combat depuis les camps, ou lignes arrières. 
 
 ### ❖ — Chercheur Aventurier — ❖

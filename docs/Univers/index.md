@@ -2,29 +2,25 @@
 title: Fondation d'Étria
 ---
 
+<i style="text-align: right">“Le but de l’Académie est de perpétuer les connaissances du Monde, d’éviter un nouveau fléau tel que l’Ancien Monde.”</i>
+
 ## Lagendia, Le monde
 
-    **Lagendia** est le nom de la planète, et de ce fait, des terres. Dans un monde mi moderne, mi médiéval fantastique, il est naturel d'y trouver énormément de paysages intouchés par une quelconque espèce. Vous n'êtes ici que depuis 300 ans environs, et la population des différentes espèces ne s'est pas excessivement reproduite. Il n'y a aucun réel royaume, et la plus grande et unique grande cité réellement régente, est celle de la Capitale, Soleanna. 
+Lagendia, le **==Nouveau Monde==**. Toute trace de l’Ancien a été effacé, lorsque les ancêtres sont arrivés en catastrophe sur ces terres, une poignée d’individus comparé au monde d’avant, frôlant de peu l’extinction. Un nouveau monde, pour repartir sur de nouvelles bases.
+Les populations actuelles ne sont ici que depuis un peu plus de **==300 ans==**, et les espèces ne se sont que peu reproduites. Le monde ne possède qu’un seul continent connu. Il n'y a aucun réel royaume, et l’unique cité régissant quelque peu les terres connues est celle de la Capitale, **Soleanna**.
 
 ## Soleanna, la Capitale
 
-Soleanna est la ville Lumière. Depuis l'arrivée des ancêtres en catastrophe depuis l'Ancien Monde, ce fut la première et unique cité bâtie afin de repeupler les espèces. Beaucoup de connaissances ont été perdues à cause de la catastrophe par laquelle ils sont arrivés sur Lagendia, et il ne reste que très peu de traces de leurs générations.
+Nommée ainsi en l’honneur de Solus, et aussi appelée **la cité royale de la Lumière**, elle est située sur les côtes. La Capitale est régie par le **==Conseil des Douze==**, chaque famille représentant une des Douze divinités du Zodiaque. 
+La Capitale utilise principalement des **==Cristaux d'Aetherite==**, une ressource naturelle, comme matière première.
 
-Située sur les côtes, la Capitale est régie par le **Conseil des Douze**, chaque famille représentant une des Douze divinités du Zodiaque. Ces divinités ne sont ni plus ni moins que des corps célestes éblouissants de lumières, êtres d'une pureté de *Hua* divine. Ces Douze animaux représentent chacun une valeur et répondent à leurs manifestations, et de ces Dieux sont tirés les cinq maisons et couleurs et valeurs de l'Académie d'Etria. 
-
-Plusieurs villages annexes sont implémentés parfois à des lieux de Soleanna, dans un environnement qui est propice aux espèces dont le mode de vie nécessite un environnement spécifique.
+Plusieurs villages annexes sont implémentés, parfois à quelques lieux, de Soleanna, offrant un environnement propice aux espèces dont le mode de vie nécessite un environnement spécifique tout en restant à proximité de la cité..
 
 ## Étria, l'Académie
 
-**L'Académie d'Etria** est la seule école de magie construite. Isolée à plusieurs kilomètres de la Capitale afin de ne pas perturber le flux de Hua des élèves via les **Cristaux d'Aetherite** de la cité, l'institut est entouré de forêts, montagnes et lacs afin d'offrir une protection naturelle contre la Nature même. Elle a pour but de perpétuer les connaissances du Monde, d'éviter un nouveau fléau comme l'Ancien Monde. De cours de magie à cours d'histoire, ou de faune et de flore, ou même de combat et de stratégies intra murales, elle déploie un éventail de choix pour former les jeunes étudiants, créatures en tout genre, à s'intégrer dans ce monde nouveau et à aider à le maintenir en vie sans altérer son cycle naturel. Il permet de forger de jeunes explorateurs du monde, ou de futurs citoyens de Soleanna, dans l'entraide et la prospérité des espèces. 
+L’[[Étria, l'académie|Académie d’Etria]] est la seule école de magie du continent. Elle est isolée de quelques kilomètres de la Capitale, afin de ne pas perturber le flux d’**==Hua==** des élèves. Des cours variés sont proposés en ses murs, de la magie à l'histoire, en passant par la faune et de flore, ou même de combat et de stratégies. 
 
-### Les maisons
+L’Académie à pour but de former les jeunes étudiants, créatures en tout genre, à les intégrer dans ce monde nouveau. C’est un établissement prestigieux, reconnu et réputé sur tout le continent.
 
-Les Cinq maisons de l'Académie sont les suivantes:
-
-![[../../_img/logo_maison.png]]
-*Les Cinq bannières représentent cinq des Divinités des Douze du Zodiaque. Chaque Dieu a une couleur attribuée de par la couleur naturelle de son* Hua, *ainsi que la valeur à laquelle il répond. Ces cinq Dieux en particulier correspondent aux valeurs de l'Académie d'Etria.*
-
-
-Chaque personnage étudiant sera automatiquement attribué dans l'une d'elles après validation de sa fiche, en suivant la valeur qui lui correspond le mieux. 
-S'il s'avérait que l'équilibre des maisons et de la quantité de joueurs dans l'une semble déséquilibrée, il est possible que votre personnage termine dans la maison la moins remplie pour un souci d'équité.
+> [!grid]
+> ![[annexe_fondation_etria.png]]

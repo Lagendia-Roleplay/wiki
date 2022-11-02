@@ -1,3 +1,8 @@
+---
+author: Raudhr
+illustration: Raudhr
+---
+
 ## Fonctionnement
 
 Bienvenue dans la boutique ! 
@@ -22,6 +27,7 @@ Si plusieurs objets, répétez simplement le formulaire, puis ajoutez le `Coût 
 ## Objets disponibles
 
 > [!grid]
+>
 >> [!infobox] 
 >> ![[../_img/potion_soin.png]]
 >> ### Potion de soin

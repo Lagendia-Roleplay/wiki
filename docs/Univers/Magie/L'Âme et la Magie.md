@@ -1,5 +1,6 @@
 ---
 description: "Un corps ne peut naturellement contenir qu'une seule Âme; une âme étant pourvue de ses centres de Puissances propres (c.f mémoire de l'âme, impact sur l'Être). Par ailleurs, une âme ne peut posséder qu'un corps qui lui est lié – les cas de possessions sont très rares et particuliers."
+author: Raudhr, Melkhior, Mara (mise-en-forme)
 ---
 
 **Un corps ne peut naturellement contenir qu'une seule Âme** ; une âme étant pourvue de ses centres de Puissances propres (c.f mémoire de l'âme, impact sur l'Être). Par ailleurs, **une âme ne peut posséder qu'un corps qui lui est lié** – les cas de possessions sont très rares et particuliers. 

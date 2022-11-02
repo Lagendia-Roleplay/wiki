@@ -1,5 +1,6 @@
 ---
 description: "Le Hua est intimement lié au corps, mais possède son propre réseau, non mêlé à celui du corps. Les vaisseaux de Hua et de sang ne sont pas les mêmes, bien qu'ils se superposent – le sang possède une marque énergétique résiduelle, mais le Hua n'y circule pas principalement. Ce fonctionnement est immuable."
+author: Raudhr
 ---
 
 Le Hua est intimement lié au corps, mais possède son **propre réseau, non mêlé à celui du corps**. Les vaisseaux de Hua et de sang ne sont pas les mêmes, bien qu'ils se superposent – le sang possède une marque énergétique résiduelle, mais le Hua n'y circule pas principalement. **Ce fonctionnement est immuable**.

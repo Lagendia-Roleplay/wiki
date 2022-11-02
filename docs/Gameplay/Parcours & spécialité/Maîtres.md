@@ -1,3 +1,7 @@
+---
+author: Raudhr
+---
+
 Les Maîtres excellent dans l'art de l'offense. Ce sont de puissants guerriers, ayant une grande maîtrise du *Hua* pour parfaire leurs techniques offensives et combler divers rôles grâce à leurs pouvoirs. Ce parcours est idéal pour les aspirants ayant pour vocation de faire grandir leurs pouvoirs et développer une grande force brute aux premières lignes.
 
 ### **❖ — Maître Elémentaliste — ❖**

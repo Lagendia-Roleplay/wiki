@@ -1,6 +1,7 @@
 ---
 title: Vampires
 description: Race de Hadess#9685
+author: Hadess
 ---
 > [!infobox|left]
 > <u>Auteur :</u> `Hadess#9685`

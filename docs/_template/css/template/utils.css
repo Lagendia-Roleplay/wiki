@@ -104,3 +104,10 @@ code {
 [data-md-color-scheme="default"] .tippy-box * {
     color: black;
 }
+
+strong>mark,
+.md-typeset mark > strong {
+    color: red !important;
+    background-color: transparent !important;
+    font-weight: normal !important;
+}

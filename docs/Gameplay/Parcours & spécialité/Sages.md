@@ -1,3 +1,7 @@
+---
+author: Raudhr
+---
+
 Les Sages sont des versatiles très axés sur l'aide à autrui et le support, quelle que soit sa façon. Ils sont d'habitude altruistes, et emplis d'un grand savoir sur le monde et les races, usant de leurs pouvoirs bienfaiteurs pour aider les premières lignes depuis les lignes arrières. 
 
 ### ❖ — Sage Alchimiste — ❖

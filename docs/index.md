@@ -24,14 +24,18 @@ Que le bon vent vous guide...
 
 ## Crédits
 
+-  *Illustration et roleplay :* Raudhr
+- *Annexe :* Choupa
+- *Wiki :* Mara
 - _Lagendia_ : Nom du monde de "Dragon Nest" sur sa version SEA. 
-- _Soleanna_: Nom de la cité dans Sonic The Hedgehog 2006. 
-- _Etria:_ Nom de la cité d'Etrian Odyssey I. 
-- _Hua_: Eon et le Douzième dragon (roman.) 
-- _Principe des Douze animaux du zodiaque, leurs couleurs et leurs attributions:_ Eon et le Douzième dragon (roman.) 
-- _Académie magique & maisons:_ Harry Potter. (El famoso.) 
-- _Base du système de dés:_ Azelyss. 
-- _Principe des Grades et Parcours, et du système adulte:_ Pokémon Community. 
-- _Principe général des quêtes:_ Pokémon Community.
-- _Grande partie du système de magie:_ Melhkior. 
+- _Soleanna_ : Nom de la cité dans Sonic The Hedgehog 2006. 
+- _Etria: _ Nom de la cité d'Etrian Odyssey I. 
+- _Hua_ : Eon et le Douzième dragon (roman.) 
+- _Principe des Douze animaux du zodiaque, leurs couleurs et leurs attributions :_ Eon et le Douzième dragon (roman.) 
+- _Académie magique & maisons :_ Harry Potter. (El famoso.) 
+- _Base du système de dés :_ Azelyss. 
+- _Principe des Grades et Parcours, et du système adulte :_ Pokémon Community. 
+- _Principe général des quêtes :_ Pokémon Community.
+- _Grande partie du système de magie :_ Melhkior. 
 - _Système des cristaux embrasés_ : FibreTigre "Aria".
+- *Certaines illustrations* : Anato Finnstark, Michał Janiszewski, Joshua Esmeralda, Max Schiller, Matteo Bassini
