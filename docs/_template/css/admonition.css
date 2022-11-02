@@ -244,7 +244,7 @@
   margin-left: 25%;
 }
 
-.admonition.infobox>.admonition-title+p {
+.admonition.grid .admonition.infobox>.admonition-title+p {
   width: auto;
   height: 11em;
 }
