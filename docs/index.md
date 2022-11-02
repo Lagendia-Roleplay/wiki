@@ -29,7 +29,7 @@ Que le bon vent vous guide...
 - *Wiki :* Mara
 - _Lagendia_ : Nom du monde de "Dragon Nest" sur sa version SEA. 
 - _Soleanna_ : Nom de la cité dans Sonic The Hedgehog 2006. 
-- _Etria: _ Nom de la cité d'Etrian Odyssey I. 
+- _Etria_ :Nom de la cité d'Etrian Odyssey I. 
 - _Hua_ : Eon et le Douzième dragon (roman.) 
 - _Principe des Douze animaux du zodiaque, leurs couleurs et leurs attributions :_ Eon et le Douzième dragon (roman.) 
 - _Académie magique & maisons :_ Harry Potter. (El famoso.) 
