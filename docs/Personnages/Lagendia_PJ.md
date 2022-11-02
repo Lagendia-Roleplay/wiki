@@ -12,6 +12,8 @@ name: Lagendia_PJ
 repo: Lagendia-Roleplay/wiki
 share: true
 title: Personnages des joueurs
+attachmentLinks: _img
+author: Mara
 tags:
   - Lagendia
   - MOC
