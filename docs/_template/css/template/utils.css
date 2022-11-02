@@ -105,9 +105,16 @@ code {
     color: black;
 }
 
-strong>mark,
-.md-typeset mark > strong {
-    color: red !important;
+[data-md-color-scheme="default"] strong>mark,
+[data-md-color-scheme="default"] .md-typeset mark > strong {
+    color: rgb(186, 46, 46) !important;
+    background-color: transparent !important;
+    font-weight: normal !important;
+}
+
+[data-md-color-scheme="slate"] strong>mark,
+[data-md-color-scheme="slate"] .md-typeset mark>strong {
+    color: rgb(255, 111, 111) !important;
     background-color: transparent !important;
     font-weight: normal !important;
 }
