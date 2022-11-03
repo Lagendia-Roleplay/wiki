@@ -1,4 +1,5 @@
 ---
+title: Participer au wiki
 hide:
  - navigation
 description: "Un tutoriel avec toutes les infos pour participer/mettre à jour le wiki"
