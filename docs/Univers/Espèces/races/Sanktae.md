@@ -1,4 +1,5 @@
 ---
+author: Mara
 autoclean: false
 category: Univers/Espèces/races
 date: 04-09-2022
@@ -7,9 +8,8 @@ repo: Lagendia-Roleplay/wiki
 share: true
 type: notes
 univers: Lagendia
-author: Mara
 ---
-%% [[../../../Compendium/Mnémosyne/index|Mnémosyne]]/ [[../../../Lagendia/Relations Mnémosyne|Lagendia]]/ [[Sanktae|Sanktae]] %%
+%% [[../../../Compendium/Mnémosyne/index|Mnémosyne]]/ [[../../../Lagendia/Relations Mnémosyne|Lagendia]]/ [[Sanktae|Sanktae]]%%
 %%→ [[10. PROJECT/Lagendia/Mnémosyne/Fiche#◌ Les Sanktae ◌|Généralité]] %%
 
 > [!infobox|left]
@@ -49,6 +49,11 @@ author: Mara
 - Les Sanktae ont accès à l'**empathie Sanktae** par le biais de leur Hua, via la forme permanente que prend leur halo. La majorité des Sanktae ressentent cette capacité comme un lien avec les autres membres de sa race, et elle rend difficile tout mensonge entre eux. Cependant, cette empathie non-entrainée prend la forme d'une sorte d'instinct plus fort que la moyenne. Seul certains Sanktae entrainé peuvent lire parfaitement le flots d'émotion qui en découle.
 - Le meurtre d'un Sanktae (par un autre) **conduit à la déchéance** du meurtrier. Le Sanktae perd l'accès à l'empathie, dans les deux sens, ce qui rend la détection des déchus très facile.
 - Le service militaire est obligatoire, et permet d'obtenir une "arme signature" et la conserver après ce service.
+
+### Religion
+Les Sanktae ne considère pas les douze dieux comme "Leurs" Dieux. Leur religion se focalise surtout sur le culte de « Saint », des Sanktae ayant potentiellement existés et responsable de miracle. Certains historiens ont réussi à démontrer l'existence de certains... Et d'autres pensent que les Sanktae utilise des évènements issus d'autres races.
+Il existerait 100 Saints à ce jour, chacun avec ses commémorations et légendes. 
+> [!note] Il est interdit de donner le nom d'un Saint à un enfant.
 
 ## Hybride
 
