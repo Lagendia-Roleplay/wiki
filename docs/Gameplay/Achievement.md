@@ -1,5 +1,8 @@
+---
 author: Hadess
 title: Achievements
+description: "Le but de ce salon est d'afficher tous les succès obtenables dans le RP. Qu'est ce qu'un succès ? Voyez ça comme un petit "badge" que vous pourrez ajouter sur votre fiche de personnage. Le but de cette initiative est d'ajouter quelques objectifs funs à faire en dehors des quêtes. Ne voyez pas ça comme un objectif principal cependant !"
+---
 ## Maison
 
 <div class="grid cards" markdown>
