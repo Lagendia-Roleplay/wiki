@@ -90,7 +90,7 @@ title: Achievements
     Jouez un citoyen
 
 !!! note "Possédé"
-    `///`
+    ///
 </div>
 
 ## Jets de dés
@@ -181,7 +181,7 @@ title: Achievements
 
 > [!success] Complétez 3 succès de cette catégorie pour débloquer le bonus suivant
 > Peut transformer un échec normal en réussite normale.
-> Utilisable qu'une seule fois par personnage.
+> *Utilisable qu'une seule fois par personnage.*{: .text-right}
 
 ## Quêtes
 
@@ -235,7 +235,7 @@ title: Achievements
 
 > [!success] Complétez 3 succès de cette catégorie pour débloquer le bonus suivant
 > Bonus de $10\%$ d'Ae sur la prochaine quête.
-> Utilisable qu'une seule fois par personnage.
+> *Utilisable qu'une seule fois par personnage.*{: .text-right}
 
 ## Relationnel
 
@@ -322,7 +322,7 @@ title: Achievements
 
 > [!success] Complétez 3 succès de cette catégorie pour débloquer le bonus suivant
 > $+5$ sur le prochain jet de charisme.
-> Utilisable qu'une suele fois par personnage.
+> *Utilisable qu'une seule fois par personnage.*{: .text-right}
 
 ## Combat
 
@@ -415,7 +415,7 @@ title: Achievements
 
 > [!success] Complétez 3 succès de cette catégorie pour débloquer le bonus suivant
 > Bonus de $+5$ sur le prochain jet d'attaque ou de défense.
-> Utilisable qu'une suele fois par personnage.
+> *Utilisable qu'une seule fois par personnage.*{: .text-right}
 
 ## Parcours et grades
 
@@ -522,4 +522,4 @@ title: Achievements
 
 > [!success] Complétez 3 succès de cette catégorie pour débloquer le bonus suivant
 > Une réduction de $10\%$ sur l'achat de votre choix.
-> Utilisable qu'une suele fois par personnage.
+> *Utilisable qu'une seule fois par personnage.*{: .text-right}

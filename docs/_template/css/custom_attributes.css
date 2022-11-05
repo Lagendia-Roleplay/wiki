@@ -1,7 +1,7 @@
 .comments {
     display: none;
 }
-#right {
+#right, .text-right {
     display: inline-block;
     width: 100%;
     text-align: right;
