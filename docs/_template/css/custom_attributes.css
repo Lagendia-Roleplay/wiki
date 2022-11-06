@@ -12,3 +12,10 @@
 	text-align: center;
 	display: block;
 }
+
+.text-center {
+    text-align: center;
+    display: block;
+    font-style: normal;
+    padding: 2.5em;
+}
