@@ -9,7 +9,7 @@ share: true
 type: notes
 univers: Lagendia
 ---
-%% [[../../../Compendium/Mnémosyne/index|Mnémosyne]]/ [[../../../Lagendia/Relations Mnémosyne|Lagendia]]/ [[Sanktae|Sanktae]]%%
+%% [[../../../Compendium/Mnémosyne/index|Mnémosyne]]/ [[../../../../Mnémosyne|Lagendia]]/ [[Sanktae|Sanktae]]%%
 %%→ [[10. PROJECT/Lagendia/Mnémosyne/Fiche#◌ Les Sanktae ◌|Généralité]] %%
 
 > [!infobox|left]
@@ -18,8 +18,7 @@ univers: Lagendia
 > - [x] Élève
 > - [x] Citoyen
 > - [x] Professeur
->
-> <u>Condition :</u>
+> > <u>Condition :</u>
 > - Ils ne doivent pas y avoir de trop nombreux Sanktae.
 > - Les personnages (hors **déchu**) doivent adopter un comportement particulier vis à vis de Mnémosyne.
 
@@ -51,8 +50,8 @@ univers: Lagendia
 - Le service militaire est obligatoire, et permet d'obtenir une "arme signature" et la conserver après ce service.
 
 ### Religion
-Les Sanktae ne considère pas les douze dieux comme "Leurs" Dieux. Leur religion se focalise surtout sur le culte de « Saint », des Sanktae ayant potentiellement existés et responsable de miracle. Certains historiens ont réussi à démontrer l'existence de certains... Et d'autres pensent que les Sanktae utilise des évènements issus d'autres races.
-Il existerait 100 Saints à ce jour, chacun avec ses commémorations et légendes. 
+Les Sanktae ne considère pas les douze dieux comme "Leurs" Dieux. Leur religion se focalise surtout sur le culte de « Saint », des Sanktae ayant potentiellement existés et responsable de miracle. Certains historiens ont réussi à démontrer l'existence de certains… Et d'autres pensent que les Sanktae utilise des évènements issus d'autres races.
+Il existerait 100 Saints à ce jour, chacun avec ses commémorations et légendes.
 > [!note] Il est interdit de donner le nom d'un Saint à un enfant.
 
 ## Hybride
@@ -60,5 +59,5 @@ Il existerait 100 Saints à ce jour, chacun avec ses commémorations et légende
 - Il n'est pas possible qu'il y ait des hybrides Sanktae. Un sang-mêlé prendra simplement l'autre race et ne verra apparaître ni halo, ni aile. Cependant, l'apparition d'un Sanktae pure reste possible pour la décendance d'hybride, ou pour un hybride et un pure Sanktae.
 - La société Sanktae est actuellement composée à 25% d'hybride et 75% de pure Sanktae.
 - Les "Pure" Sanktae ont plus de difficulté à avoir des enfants entre eux qu'avec les autres races ou les hybrides.
-- Bien qu'il n'y ait pas de différences physique entre un Sanktae hybride et un pure, il reste très minoritaire et mis à l'écart de la société.
+- Bien qu'il n'y ait pas de différences physique entre un Sanktae hybride et un pure, ils restent très minoritaires et sont mis à l'écart de la société.
 
