@@ -9,7 +9,7 @@ share: true
 type: notes
 univers: Lagendia
 ---
-%% [[../../../Compendium/Mnémosyne/index|Mnémosyne]]/ [[../../../../Mnémosyne|Lagendia]]/ [[Sanktae|Sanktae]]%%
+%% [[../../../Compendium/Mnémosyne/index|Mnémosyne]]/ [[../../../../Mnémosyne|Lagendia]]/ [[Sanktae|10. PROJECT/Lagendia/Mnémosyne/Sanktae]]%%
 %%→ [[10. PROJECT/Lagendia/Mnémosyne/Fiche#◌ Les Sanktae ◌|Généralité]] %%
 
 > [!infobox|left]
@@ -18,7 +18,7 @@ univers: Lagendia
 > - [x] Élève
 > - [x] Citoyen
 > - [x] Professeur
-> > <u>Condition :</u>
+> <u>Condition :</u>
 > - Ils ne doivent pas y avoir de trop nombreux Sanktae.
 > - Les personnages (hors **déchu**) doivent adopter un comportement particulier vis à vis de Mnémosyne.
 
